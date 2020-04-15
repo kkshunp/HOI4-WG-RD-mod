@@ -1,0 +1,8 @@
+supply_area={
+	id=51
+	name="Nizima"
+	value=1
+	states={
+		121
+	}
+}

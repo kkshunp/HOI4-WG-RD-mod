@@ -1,0 +1,9 @@
+
+supply_area={
+	id=57
+	name="Zyoukita"
+	value=5
+	states={
+	128 129 130 132
+	}
+}

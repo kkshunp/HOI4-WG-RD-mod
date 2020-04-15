@@ -1,0 +1,32 @@
+state={
+	id=359
+	name="Susami" 
+	manpower = 9900
+
+	state_category = wasteland
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+
+		}
+
+		add_core_of = JP1
+
+	}
+
+	provinces= {
+	2672 2129 1572 537 2875
+	}
+}

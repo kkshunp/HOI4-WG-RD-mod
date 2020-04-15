@@ -1,0 +1,32 @@
+state={
+	id=105
+	name="Saitama" 
+	manpower = 2655640
+
+	state_category = metropolis
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure =6 
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 4
+		}
+		victory_points = {
+			5877 30
+		}
+		victory_points = {
+			5880 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4556 5296 5306 5880 5883 4117 5882 5877 5309
+	}
+}

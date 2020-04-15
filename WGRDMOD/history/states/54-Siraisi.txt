@@ -1,0 +1,30 @@
+state={
+	id=54
+	name="Siroisi" 
+	manpower = 486000
+
+	state_category = large_city
+	resources={
+		rubber=24
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			 33 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1015 48 702 59 238 37 24 33 860 5777
+	}
+}

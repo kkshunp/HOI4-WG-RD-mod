@@ -1,0 +1,27 @@
+state={
+	id=60
+	name="Aiduwakamatu" 
+	manpower = 147404
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		victory_points = {
+			 2845 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2434 2515 4296 3303 3863 4153 3728 3145 1413 2845 3475 3459 2308 3921 3659 1212 3623 2277 3037
+	}
+}

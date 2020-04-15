@@ -1,0 +1,668 @@
+##Adjacency rules are special rules for adjacencies
+#If smbd who is at war fights over canal/strait it is considered closed
+#Enemy status is considered if any of sides controlling the chanel is at war with country
+#Friend status is considered non of sides controlling the chanel is at war with country and one of controllers is ally of giving military access
+#Every one else is considered as neutral according to canal/strait
+#Military access considered as being friend
+#Rules needs linking from the straits that are affected by the rule ( adjacency_rule_id )
+
+#Name is how you refer to the rule in adjecencies.csv
+adjacency_rule
+{
+	name = "KAGOSIMA_WAN"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	
+	required_provinces = { 5470 5419 }
+		
+	icon = 607
+	offset = { 60 0 -10 }
+}
+adjacency_rule
+{
+	name = "NAGASIMA_KAIKYOU"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 5455 4990 3943 }
+		
+	icon = 4990
+	offset = { 1 0 0 }
+}
+adjacency_rule
+{
+	name = "HAYASAKI_KAIKYOU"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 5464 3248 }
+		
+	icon = 5464
+	offset = { 10 0 0 }
+}
+#対馬
+adjacency_rule
+{
+	name = "TUSIMA_KAIKYOU"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 4125 3965 }
+		
+	icon = 5440
+	offset = { 5 0 0 }
+}
+adjacency_rule
+{
+	name = "UTIURA_WAN"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 4125 3965 }
+		
+	icon = 1003
+	offset = { -17 0 -36 }
+}
+
+#Gibraltar Strait
+adjacency_rule
+{
+	name = "TUGARU_KAIKYOU"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 4441 4746 }
+	
+	icon = 1753
+	offset = { 0.0 0.0 0.0 }
+}
+
+#Øresund - (Østersøen <-> Kattegat/Skagerak/Nordsøen)
+adjacency_rule
+{
+	name = "MUTU_WAN"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 3693 5423 }
+	
+	icon = 1330
+	offset = { 18 0 14 }
+}
+
+#Panama Canal
+adjacency_rule
+{
+	name = "TOUKYOU_WAN"
+
+	contested =
+	{
+		army = yes
+		navy = yes
+		submarine = no
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 4737 4646 5118 }
+		
+	icon = 768
+	offset = { -35 0 -5 }
+}
+
+#Turkish Straits
+adjacency_rule
+{
+	name = "ATUMI_WAN"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 5517 958 }
+	
+	icon = 971
+	offset = { -21 0 -17 }
+}
+
+#Kiel Canal
+adjacency_rule
+{
+	name = "ISE_WAM"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	required_provinces = { 1901 1767 }
+		
+	icon = 1520
+	offset = { -18 0 -19 }
+}
+
+#Kiel Canal
+adjacency_rule
+{
+	name = "OOSAKA_WAN"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	required_provinces = { 77 3404 }
+		
+	icon = 1132
+	offset = { -41 0 5 }
+}
+
+adjacency_rule
+{
+	name = "NARUTO_KAIKYOU"
+
+	contested =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	required_provinces = { 3344 4899 }
+		
+	icon = 3805
+	offset = { 15 0 38 }
+}
+
+adjacency_rule
+{
+	name = "AKASI_KAIKYOU"
+
+	contested =
+	{
+		army = yes
+		navy = yes
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	required_provinces = { 3637 4026 }
+		
+	icon = 1007
+	offset = { 14 0 -39 }
+}
+
+adjacency_rule
+{
+	name = "KANMON_KAIKYOU"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	required_provinces = { 2360 5077 }
+		
+	icon = 2080
+	offset = { -9 0 -22 }
+}
+
+adjacency_rule
+{
+	name = "HOOUYO_KAIKYOU"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	required_provinces = { 4372 4317}
+		
+	icon = 1380
+	offset = { 8 0 24 }
+}
+
+adjacency_rule
+{
+	name = "HARIO_SETO"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	required_provinces = { 4372 4317}
+		
+	icon = 5129
+	offset = { -8 0 0 }
+}
+adjacency_rule
+{
+	name = "SAKAI_MINATO"
+
+	contested =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	required_provinces = { 6256 5111}
+	is_disabled = {
+		NOT = {has_global_flag = SAKAI_MINATO_NAVY_FLAG}
+		#always = yes
+	}
+	icon = 5111
+	offset = { 0 1 5 }
+}

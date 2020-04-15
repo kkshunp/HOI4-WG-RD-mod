@@ -1,0 +1,39 @@
+state={
+	id=160
+	name="izu" 
+	manpower = 612544
+	state_category = town
+	resources={
+		chromium= 4
+		aluminium= 2
+		steel= 0
+		tungsten= 0
+		rubber= 0
+		oil=  0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+				 
+			air_base = 1
+		}
+		victory_points = {
+			 3668 6
+		}
+		victory_points = {
+			 2597 5
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={ 2597 4883 4458 4691 398 3314 3668 2074 2473 1736 795 1324 352 608 1433 29041 225 875 2350 2480 1440
+	
+	}
+}

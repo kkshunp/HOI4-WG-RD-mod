@@ -1,0 +1,35 @@
+state={
+	id=255
+	name="Yosinogawa" 
+	manpower = 136541
+
+	state_category = town
+	resources={
+		chromium=7
+		aluminium=11
+		steel=75
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		#victory_points = {
+			# 5110 5
+		#}
+		victory_points = {
+			 5541 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5529 5534 5541 4832 1415 5192 4035 5539 5544
+	}
+}

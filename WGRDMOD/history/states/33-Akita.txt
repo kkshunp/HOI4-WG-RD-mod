@@ -1,0 +1,36 @@
+state={
+	id=33
+	name="Akita" 
+	manpower = 454354
+
+	state_category = large_city
+	resources={
+		rubber=22
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			air_base = 2
+	3275 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 3275 30
+		}
+		victory_points = {
+			 4645 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4645 4247 3563 1935 2239 1235 218 1172 2324 654 3275 723 801 683 3872 3689 205 3426 260 4437  886 3485 2477
+	}
+}

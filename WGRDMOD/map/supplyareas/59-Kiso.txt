@@ -1,0 +1,9 @@
+
+supply_area={
+	id=59
+	name="Kiso"
+	value=4
+	states={
+	135 134
+	}
+}

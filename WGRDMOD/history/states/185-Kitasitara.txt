@@ -1,0 +1,32 @@
+state={
+	id=185
+	name="Kitasitara" 
+	manpower = 926400
+
+	state_category = rural
+	resources={
+		chromium=12
+		aluminium=32
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 1 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1391 2582 1224 1355 6308 6305 6302 6300
+	}
+}

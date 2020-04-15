@@ -1,0 +1,33 @@
+state={
+	id=89
+	name="Tyousi" 
+	manpower = 35361
+	resources={
+		steel=96
+		tungsten=96
+	}
+	state_category = city
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 0
+4417 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 4417 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4417 416 17 11
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=129
+	name="Zyoushuu" 
+	manpower = 234010
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			 1647 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	3587 1647 4301 2502 3866 3627 1927 4179 4711 2574 2151 3687
+	}
+}

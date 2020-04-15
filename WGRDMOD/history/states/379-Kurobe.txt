@@ -1,0 +1,59 @@
+state={
+	id=379
+	name="Kurobe"
+	manpower =63240
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=1
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+				
+		3703 = {
+				naval_base = 4
+			}
+		}
+
+		add_core_of = JP1
+#		victory_points = {
+#			 3631 2
+#		}
+		victory_points = {
+			 3796 1
+		}
+		victory_points = {
+			 3703 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		3617 3703 2914 5625 2962 3341 3796 2606 5626 5618 5616 2031 5619 3579 3034 5632 5384
+	}
+}	                  
+			       
+		 
+		            
+			             
+				                      
+			 
+		 
+	 
+
+	           
+		                                                                                                                                                                                                                                                                                                
+	 
+ 

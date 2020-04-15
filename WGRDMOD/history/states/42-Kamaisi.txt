@@ -1,0 +1,39 @@
+state={
+	id=42
+	name="Kamaisi" 
+	manpower = 269000
+
+	state_category = city
+	resources={
+		steel=221
+		tungsten=132
+		oil=1
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+4657 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 4091 20
+		}
+		victory_points = {
+			 4953 5
+		}
+		victory_points = {
+			 4172 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4091 2778 2967 4657 4953 3439 3543 3820 3308 4172 4092 3074 3440 2801 1580 4980 1754 3418 4383 4976 5004 1671 3971 2980 27 5744 2509 5023 1351 5748
+	}
+}

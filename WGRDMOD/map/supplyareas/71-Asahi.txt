@@ -1,0 +1,8 @@
+supply_area={
+	id=71
+	name="Asahi"
+	value=4
+	states={
+		147
+	}
+}

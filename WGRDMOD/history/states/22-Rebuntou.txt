@@ -1,0 +1,26 @@
+state={
+	id=22
+	name="Rebuntou" 
+	manpower = 2658
+
+	state_category = small_island
+
+	history={
+		owner = JP1
+
+		add_core_of = JP1
+	}
+		buildings = {
+			infrastructure = 1
+			3785 = {
+				naval_base = 4
+			}
+			}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	provinces={
+	3785
+	}
+}

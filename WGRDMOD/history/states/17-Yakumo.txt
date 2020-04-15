@@ -1,0 +1,30 @@
+state={
+	id=17
+	name="Yakumo" 
+	manpower = 21000
+
+	state_category = city
+	resources={
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			 3379 5
+		}
+		victory_points = {
+			 3436 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2484 4066 1870 3195 3379 3363 3492 3436
+	}
+}

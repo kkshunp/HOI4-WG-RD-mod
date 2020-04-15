@@ -1,0 +1,8 @@
+supply_area={
+	id=87
+	name="Toyohasi"
+	value=7
+	states={
+		183 181 423
+	}
+}

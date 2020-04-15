@@ -1,0 +1,39 @@
+state={
+	id=149
+	name="uonuma" 
+	manpower = 205757
+
+	state_category = town
+	resources={
+		steel= 13
+		tungsten= 1
+		chromium= 2
+		aluminium= 1
+
+	}
+	history={
+		owner =JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0 
+			arms_factory = 0 
+		}
+		add_core_of = JP1
+		victory_points = {
+			5346 3
+		}
+		victory_points = {
+			2198 1
+		}
+		victory_points = {
+			2724 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={ 4983 5266 2931 5358 5166 5340 1772 5346 5366 5249 5376 5262 5265 3467 4479 4981 3973 1803 3561 2724 2198 3359 3843 3269 2575 5820 5818 5819 4735 2543 3996 3842 5826 5823 5822 5824 5825 5827 4936
+	}
+}

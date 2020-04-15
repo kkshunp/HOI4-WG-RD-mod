@@ -1,0 +1,5 @@
+
+SOV	= "countries/Soviet Union1.txt"
+JP1	= "countries/Japan1.txt"
+KR1	= "countries/Korea1.txt"
+US1	= "countries/United States.txt"

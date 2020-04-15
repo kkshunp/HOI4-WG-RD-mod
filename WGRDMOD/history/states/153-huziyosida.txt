@@ -1,0 +1,35 @@
+state={
+	id=153
+	name="huziyosida" 
+	manpower = 257801
+
+	state_category = rural
+	resources={
+		chromium= 1
+		aluminium= 2
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0 
+		}
+		victory_points = {
+			5932 3
+		}
+		victory_points = {
+			2809 1
+		}
+		
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	3425 1442 2809 1320 1677 5927 351 2974 3375 5934 5933 5932 5931
+	}
+}

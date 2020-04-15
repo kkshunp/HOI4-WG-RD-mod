@@ -1,0 +1,8 @@
+supply_area={
+	id=9
+	name="Rebun"
+	value=1
+	states={
+		22
+	}
+}

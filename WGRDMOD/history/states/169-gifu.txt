@@ -1,0 +1,36 @@
+
+state={
+	id=169
+	name="gihu"
+	resources={
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 2
+				
+			fuel_silo = 1
+			air_base = 2
+		}
+		add_core_of = JP1
+		victory_points = {
+			 5323 25#Šò•Œ
+		}
+		victory_points = {
+			4438 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5323 2563 5342 4532 5977 5978 5974 5976 4438 5321 6333 6340 6347 6355 6362 6361
+	}
+	manpower=879867
+	state_category=metropolis
+}

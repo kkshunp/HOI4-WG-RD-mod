@@ -1,0 +1,32 @@
+state={
+	id=254
+	name="Kaihu" 
+	manpower = 90201
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 1811 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2103 5219 1811 5024 5525 5526 5527 5532 6120 6119 2103
+	}
+}

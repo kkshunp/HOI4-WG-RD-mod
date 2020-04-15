@@ -1,0 +1,35 @@
+state={
+	id=249
+	name="Shoudo" 
+	manpower = 29949
+
+	state_category = small_island
+	resources={
+		chromium=0
+		aluminium=0
+		steel=35
+		tungsten=0
+		rubber=0
+		oil=20
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+				
+			2736 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			 4107 3
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4107 2736 4941 5125 4542 5537
+	}
+}

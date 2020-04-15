@@ -1,0 +1,8 @@
+supply_area={
+	id=8
+	name="Risiri"
+	value=1
+	states={
+		21
+	}
+}

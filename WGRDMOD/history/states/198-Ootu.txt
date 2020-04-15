@@ -1,0 +1,39 @@
+state={
+	id=198
+	name="Ootu" 
+	manpower = 494100
+
+	state_category = large_city
+	resources={
+		chromium=114
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 2
+				
+		}
+		victory_points = {
+			 4498 20
+		}
+		victory_points = {
+			 4597 3
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3911 3401 4597 3892 33580 3247 3555 3246 4498 3648 6013 5717 5721 2917
+	}
+}

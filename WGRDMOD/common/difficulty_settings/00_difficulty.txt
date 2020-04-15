@@ -1,0 +1,80 @@
+difficulty_settings = {
+	difficulty_setting = {
+		key = "custom_diff_strong_hok"
+		modifier = diff_strong_ai_generic
+		countries = { HOK }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_myg"
+		modifier = diff_strong_ai_generic
+		countries = { MYG TOU }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_gnm"
+		modifier = diff_strong_ai_generic
+		countries = { GNM }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_tot"
+		modifier = diff_strong_ai_generic
+		countries = { TOT UTM }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_tko"
+		modifier = diff_strong_ai_generic
+		countries = { TKO }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_tba"
+		modifier = diff_strong_ai_generic
+		countries = { TBA }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ait"
+		modifier = diff_strong_ai_generic
+		countries = { AIT }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_kyt"
+		modifier = diff_strong_ai_generic
+		countries = { KYT }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_hyg"
+		modifier = diff_strong_ai_generic
+		countries = { HYG }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_hrs"
+		modifier = diff_strong_ai_generic
+		countries = { HRS }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_hko"
+		modifier = diff_strong_ai_generic
+		countries = { HKO }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_onw"
+		modifier = diff_strong_ai_generic
+		countries = { ONW }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_tou"
+		modifier = diff_strong_ai_generic
+		countries = { AOM AKI IWA YMG MYG HUK TOU }
+		multiplier = 2.0
+	}
+}

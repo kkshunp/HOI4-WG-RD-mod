@@ -1,0 +1,36 @@
+state={
+	id=234
+	name="Hunai" 
+	manpower = 256210
+
+	state_category = large_city
+	resources={
+		chromium=22
+		aluminium=24
+		steel=100
+		tungsten=44
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =3
+			arms_factory = 3
+				
+		}
+		victory_points = {
+			405 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3349 3081 4057 1107 797 405 2837 2423
+	}
+}

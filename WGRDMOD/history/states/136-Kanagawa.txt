@@ -1,0 +1,29 @@
+state={
+	id=136
+	name="Kawasaki" 
+	manpower = 3223270
+
+	state_category = metropolis
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 6
+			arms_factory = 1
+			fuel_silo = 1
+			air_base = 1
+		}
+		victory_points = {
+			 4015 15
+		}
+		victory_points = {
+			 5899 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4015 2598 2950 5899 5904 5908 5909 5917 5915 5916 3633 5905 5906 5902
+	}
+}

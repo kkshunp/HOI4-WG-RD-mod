@@ -1,0 +1,81 @@
+areas = {
+
+	Touhokuhokkaiodu = {
+
+		continents = { 
+			Touhokuhokkaiodu
+		}
+	}
+
+	Tyuubu = {
+
+		continents = { 
+			Tyuubu
+		}
+	}
+
+	Kansai = {
+
+		continents = { 
+			Kansai
+		}
+	}
+
+	Tyugoku = {
+
+		continents = { 
+			Tyugoku
+		}
+	}
+
+	Sikoku = {
+
+		continents = { 
+			Sikoku 
+		}
+	}
+
+	Kyuushu = {
+
+		continents = { 
+			Kyuushu
+		}
+	}
+	Kantou = {
+
+		continents = { 
+			Kantou
+		}
+	}
+	NanseiShotou = {
+
+		strategic_regions = {
+			335
+			347
+			336
+			337
+			338
+			339
+			340
+			341
+			342
+			343
+			344
+			345
+			346
+			334
+			333
+			217
+			125
+			352
+		}
+	}
+
+	oceania = {
+
+		strategic_regions = {
+			
+		}
+	}
+	
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=56
+	name="Nagano"
+	value=7
+	states={
+	127 126
+	}
+}

@@ -1,0 +1,36 @@
+state={
+	id=192
+	name="Oono" 
+	manpower = 15790
+
+	state_category = city
+	resources={
+		chromium=21
+		aluminium=19
+		steel=0
+		tungsten=1
+		rubber=0
+		oil=18
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			2635 3
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1617 1524 1492 3358 2635 2066 1784 2556 5697 5696 5695 5693 5695 2184 5065 5999 5998
+	}
+}

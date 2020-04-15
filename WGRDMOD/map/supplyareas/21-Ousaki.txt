@@ -1,0 +1,8 @@
+supply_area={
+	id=21
+	name="Isinomaki"
+	value=6
+	states={
+		51 50
+	}
+}

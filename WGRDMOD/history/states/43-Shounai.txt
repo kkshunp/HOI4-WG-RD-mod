@@ -1,0 +1,34 @@
+state={
+	id=43
+	name="Shounai" 
+	manpower = 502400
+
+	state_category = city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+				4232 = {
+				naval_base = 4
+			}
+air_base = 1
+		}
+		victory_points = {
+			 4004 10
+		}
+		victory_points = {
+			 4232 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1278 4786 4232 1612 3964 5108 4897 2842 4876 1806 4144 1937 3191 4999 5062 4004 2382 4312 4253 4680 4379 3808 1921 437 5754 5758 5752 3846 477 5782
+	}
+}

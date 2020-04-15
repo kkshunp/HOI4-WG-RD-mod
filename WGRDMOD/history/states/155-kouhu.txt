@@ -1,0 +1,37 @@
+state={
+	id=155
+	name="kouhu" 
+	manpower = 257801
+
+	state_category = large_city
+	resources={
+		aluminium= 3
+		steel= 7
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+			air_base = 2
+		}
+		victory_points = {
+			 2253 15
+		}
+		victory_points = {
+			 1417 3
+		}
+		victory_points = {
+			 2064 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={ 4195 1581 2648 5949 4414 4688 2817 1723 1975 2783 4456 2368 1417 2253 462 1019 2064 2964 3711 5948 4036 3159 2036
+	}
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=20
+	name="Okusiritou"
+	manpower = 2800
+	
+	state_category = small_island
+
+	resources={
+
+	}
+	
+	history={
+		owner = JP1
+		add_core_of = JP1
+
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		buildings = {
+			infrastructure = 2
+
+			}
+
+	}
+	provinces={
+		4632
+	}
+}

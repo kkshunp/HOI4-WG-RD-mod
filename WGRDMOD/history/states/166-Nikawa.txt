@@ -1,0 +1,30 @@
+
+state={
+	id=166
+	name="Niikawa"
+	resources={
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+				
+		}
+		add_core_of = JP1
+		victory_points = {
+			5617 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5614 5613 1996 3680 5620 3494 3765 5620 5621 5617 3172 3398 5627 2843 5615 5624 5924 5923 5921 5922 5920 5919 4820 5967 5327 5968 5361
+	}
+	manpower=59100
+	state_category=town
+}

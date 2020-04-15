@@ -1,0 +1,8 @@
+supply_area={
+	id=67
+	name="izumoi"
+	value=5
+	states={
+		274
+	}
+}

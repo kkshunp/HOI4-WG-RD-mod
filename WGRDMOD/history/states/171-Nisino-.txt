@@ -1,0 +1,33 @@
+
+state={
+	id=171
+	name="Oogaki"
+	resources={
+		rubber=2
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 2
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			 2929 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5216 2929 3488 3232 3760 2674 5237 2481 5330 6001 6003 6000 6404 6383 6385 6384 6387 6386 6377
+	}
+	manpower=192867
+	state_category=rural
+}

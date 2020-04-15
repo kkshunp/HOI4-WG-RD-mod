@@ -1,0 +1,26 @@
+state={
+	id=125
+	name="OgasawaraShotou" 
+	manpower = 31
+
+	state_category = small_island
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			3257 = {
+				naval_base = 2
+			}
+			83 = {
+				naval_base = 1
+			}
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	3257 83
+	}
+}

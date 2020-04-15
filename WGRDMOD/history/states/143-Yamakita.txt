@@ -1,0 +1,30 @@
+state={
+	id=143
+	name="Yamakita" 
+	manpower = 86410
+
+	state_category = rural
+	resources={
+		chromium=4
+		steel=5
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+		}
+		victory_points = {
+			 982 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1549 1057  982 752
+	}
+}

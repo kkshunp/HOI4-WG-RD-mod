@@ -1,0 +1,8 @@
+supply_area={
+	id=91
+	name="Noto"
+	value=4
+	states={
+		190 191
+	}
+}

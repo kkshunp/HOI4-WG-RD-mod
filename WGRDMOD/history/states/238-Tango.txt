@@ -1,0 +1,33 @@
+state={
+	id=238
+	name="Tango" 
+	manpower = 336541
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 3
+		}
+		victory_points = {
+			2888 10
+		}
+		
+		add_core_of = JP1
+	}
+
+	provinces={
+	3270 4577 2396 389 4203 125 239 2888 192 278 365
+	}
+}

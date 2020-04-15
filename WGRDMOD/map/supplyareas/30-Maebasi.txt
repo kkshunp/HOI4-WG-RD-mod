@@ -1,0 +1,8 @@
+supply_area={
+	id=30
+	name="Maebasi"
+	value=9
+	states={
+		69
+	}
+}

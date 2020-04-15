@@ -1,0 +1,32 @@
+
+
+Gunmer_shugi = {
+	icon = 2
+	default_law = no
+	sound_effect = "Martial_Law_Interface_No_Garrison"
+	visible = {
+		tag = GNM
+		GNM = {has_completed_focus = GNMfocus_53}
+	}
+	available = {
+		GNM = {has_completed_focus = GNMfocus_53}
+	}
+	state_modifier = {
+		resistance_target = -0.30
+		required_garrison_factor = -0.50
+		resistance_damage_to_garrison = -0.25
+		compliance_gain = 0.01
+		local_manpower = 0.01
+		local_factories 					= 0.05
+	}
+	
+	suppressed_state_modifier = {
+		required_garrison_factor = -0.50
+	}
+	
+	ai_will_do = {
+		base = 5000
+	}
+}
+
+

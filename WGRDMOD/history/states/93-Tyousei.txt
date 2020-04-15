@@ -1,0 +1,28 @@
+state={
+	id=93
+	name="Tyousei" 
+	manpower = 59458
+	resources={
+		steel=36
+		tungsten=16
+	}
+	state_category = town
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =1
+			arms_factory = 2
+			dockyard = 1
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	587 422 4081 1987 3083
+	}
+}

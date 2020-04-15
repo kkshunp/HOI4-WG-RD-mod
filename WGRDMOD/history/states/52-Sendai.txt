@@ -1,0 +1,35 @@
+state={
+	id=52
+	name="Sendai" 
+	manpower = 1231653
+
+	state_category = metropolis
+	resources={
+		steel=21
+		tungsten=11
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory =  4
+			air_base = 8
+		}
+		victory_points = {
+			 168 30
+		}
+		victory_points = {
+			 28 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3487 28 70 36 168 53 3975 2794 22 31 2825 5781
+	}
+}

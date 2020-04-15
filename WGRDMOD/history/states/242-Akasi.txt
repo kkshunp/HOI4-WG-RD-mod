@@ -1,0 +1,38 @@
+state={
+	id=242
+	name="Akasi" 
+	manpower = 545570
+
+	state_category = large_town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+				
+			3210 = {
+				naval_base = 3
+			}
+		}
+		#victory_points = {
+			# 1631 5
+		#}
+		victory_points = {
+			 3766 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3766  3306 3103 3169 3210 3438 4457
+	}
+}

@@ -1,0 +1,47 @@
+
+state={
+	id=278
+	name="Simonoseki"
+	resources={
+		chromium=0.000
+		aluminium=1.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+			air_base = 1
+			dockyard = 1
+			2360 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			2360 15 
+		}
+#		victory_points = {
+#			3907 3 
+#		}
+#		victory_points = {
+#			4644 3 
+#		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2360 3141 3302 3639 3677 3699 3963 4084 4104 5046 
+	}
+	manpower=442702
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

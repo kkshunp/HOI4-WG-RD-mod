@@ -1,0 +1,9 @@
+
+supply_area={
+	id=115
+	name="Ooska"
+	value=12
+	states={
+	223 224 225 226 364 365
+	}
+}

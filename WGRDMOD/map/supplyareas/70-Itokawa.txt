@@ -1,0 +1,8 @@
+supply_area={
+	id=70
+	name="Nagaoka"
+	value=4
+	states={
+		148 164
+	}
+}

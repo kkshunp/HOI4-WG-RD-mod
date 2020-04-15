@@ -1,0 +1,31 @@
+state={
+	id=130
+	name="Sakuma" 
+	manpower = 321401
+
+	state_category = town
+	resources={
+		aluminium=1
+	}
+	history={
+		owner =JP1
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			2805 1
+		}
+		victory_points = {
+			2540 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2946 3220 3060 3585 2851 2805 4097 4627 3523 4299 5838 5837 3268 3006 3771 2540 2313 5835 3290 1900 2314 1755 2170 1523 1055 5854 5853 2595
+	}
+}

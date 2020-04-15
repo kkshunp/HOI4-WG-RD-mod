@@ -1,0 +1,35 @@
+state={
+	id=299
+	name="Kitou" 
+	manpower = 120000
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 4655 5 
+		}		
+		victory_points = {
+			 5278 2 
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5278 5235 5459 5385 4655 5277 4819 6167
+	}
+}

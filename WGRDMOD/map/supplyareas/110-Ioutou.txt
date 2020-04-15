@@ -1,0 +1,8 @@
+supply_area={
+	id=110
+	name="Ioutou"
+	value=3
+	states={
+	217
+	}
+}

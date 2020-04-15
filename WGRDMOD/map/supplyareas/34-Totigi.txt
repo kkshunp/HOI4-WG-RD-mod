@@ -1,0 +1,8 @@
+supply_area={
+	id=34
+	name="Nikkou"
+	value=6
+	states={
+		80 78 79 72 353 355
+	}
+}

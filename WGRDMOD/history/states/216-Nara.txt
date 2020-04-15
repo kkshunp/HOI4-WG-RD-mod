@@ -1,0 +1,43 @@
+state={
+	id=216
+	name="Nara" #“Þ—Ç
+	manpower =656120
+
+	state_category = large_city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+				
+			air_base = 1
+		}
+		victory_points = {
+			2632 20
+		}
+		victory_points = {
+			2363 5
+		}
+		victory_points = {
+			2464 8
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2832 3018 3384 15912 2632 1945 3147 2033 1973 3496 2882 2719 1416 2464 2539 2498 2089 3004 4297 2363 3242 2937 1414 1643 2803
+	}
+}

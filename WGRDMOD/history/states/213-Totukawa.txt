@@ -1,0 +1,32 @@
+state={
+	id=213
+	name="Yosino" #‹g–ì
+	manpower =256210
+
+	state_category = city
+	resources={
+		chromium=1
+		aluminium=1
+		steel=1
+		tungsten=1
+		rubber=20
+		oil=1
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 3307 10
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3307 3644 1813 1848 2630 2944 3365 4005 3324 2538 3767 2362
+	}
+}

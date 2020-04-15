@@ -1,0 +1,8 @@
+supply_area={
+	id=50
+	name="Ousima"
+	value=1
+	states={
+		120
+	}
+}

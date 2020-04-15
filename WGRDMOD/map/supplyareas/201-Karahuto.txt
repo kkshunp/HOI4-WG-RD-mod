@@ -1,0 +1,8 @@
+supply_area={
+	id=201
+	name="karahuto"
+	value=1
+	states={
+	349 350 351 352 415 416 414
+	}
+}

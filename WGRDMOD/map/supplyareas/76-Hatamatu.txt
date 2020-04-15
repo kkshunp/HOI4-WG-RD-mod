@@ -1,0 +1,8 @@
+supply_area={
+	id=76
+	name="Hamamatu"
+	value=6
+	states={
+		159 156 162
+	}
+}

@@ -1,0 +1,33 @@
+state={
+	id=156
+	name="makinohara" 
+	manpower = 64358
+
+	state_category = rural
+	resources={
+		chromium= 4
+		aluminium= 5
+		steel= 4
+		tungsten= 0
+		rubber= 0
+		oil=  0
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0 
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={ 
+	2014 3801 3117 3331 2786 2507 5952 4202 2823
+	}
+}

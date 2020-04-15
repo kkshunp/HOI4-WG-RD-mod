@@ -1,0 +1,8 @@
+supply_area={
+	id=197
+	name="Tannan"
+	value=4
+	states={
+	194
+	}
+}

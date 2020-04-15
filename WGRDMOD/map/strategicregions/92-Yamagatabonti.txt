@@ -1,0 +1,179 @@
+
+strategic_region={
+	id=92
+	name="Yamagatabonti"
+	provinces={
+	2752 3642 1314 3366 4140 4639 4489 3881 2799 4761 2245 4399 2461 3460 4451 4847 2518 1411 2878 3244 4424 1849 4516 4444 4857 2889 57 1658 1682 5749 50 4058 21 72 4229 5115 4858 4127 3033 1512 2646 1181 4588 4329 2566 5055 2029 2459 4592 5193 4294 3381 3614 4653 3088 1122 4006 4377 1053 817 4445 5259 5311 5768 5767 3084 3670 4686 4473 5765 2936 5766 2566 5773 5770 5772 5771 5769 2219	
+	}
+	weather={
+		period={
+			between={ 0.0 30.0 }
+			temperature={ 2.0 8.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.500
+			rain_light=0.460
+			rain_heavy=0.040
+			snow=0.100
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.1 27.1 }
+			temperature={ 5.0 11.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.450
+			rain_light=0.440
+			rain_heavy=0.050
+			snow=0.060
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.2 30.2 }
+			temperature={ 9.0 16.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.500
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.020
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.3 29.3 }
+			temperature={ 16.0 20.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.500
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.4 30.4 }
+			temperature={ 22.0 25.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.550
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.5 29.5 }
+			temperature={ 25.0 29.0 }
+			temperature_day_night={ 9.0 -9.0 }
+			no_phenomenon=0.600
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.6 30.6 }
+			temperature={ 29.0 32.0 }
+			temperature_day_night={ 9.0 -9.0 }
+			no_phenomenon=0.650
+			rain_light=0.230
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.7 30.7 }
+			temperature={ 25.0 33.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.600
+			rain_light=0.280
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.8 29.8 }
+			temperature={ 21.0 29.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.600
+			rain_light=0.300
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.9 30.9 }
+			temperature={ 15.0 24.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.650
+			rain_light=0.300
+			rain_heavy=0.050
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.10 29.10 }
+			temperature={ 10.0 18.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.650
+			rain_light=0.300
+			rain_heavy=0.050
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.11 30.11 }
+			temperature={ 3.0 11.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.600
+			rain_light=0.460
+			rain_heavy=0.040
+			snow=0.100
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 4.11 21.11 }
+			temperature={ -10.0 35.0 }
+			temperature_day_night={ 2.0 -2.0 }
+			no_phenomenon=1.500
+			rain_light=0.250
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			mud=0.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+	}
+}

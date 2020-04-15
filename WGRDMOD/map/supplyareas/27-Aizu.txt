@@ -1,0 +1,8 @@
+supply_area={
+	id=27
+	name="Aizu"
+	value=5
+	states={
+		58 60 59
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=85
+	name="Ryugasaki" 
+	manpower = 47603
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex =1
+		}
+		victory_points = {
+			 3002 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4685 4130 3002 2165 4731 3364
+	}
+}

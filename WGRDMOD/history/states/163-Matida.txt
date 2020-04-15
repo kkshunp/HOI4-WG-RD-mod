@@ -1,0 +1,25 @@
+state={
+	id=163
+	name="Matida" 
+	manpower = 429114
+
+	state_category = town
+	resources={
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+		}
+		victory_points = {
+			 3790 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={ 
+	2773 3790 4912 4513 5898 5914 6202
+	}
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=60
+	name="inu"
+	value=4
+	states={
+		87 89
+	}
+}

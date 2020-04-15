@@ -1,0 +1,8 @@
+supply_area={
+	id=198
+	name="Isikawatwo"
+	value=1
+	states={
+	381
+	}
+}

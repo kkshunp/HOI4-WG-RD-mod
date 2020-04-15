@@ -1,0 +1,31 @@
+state={
+	id=10
+	name="Kusiro" 
+	manpower = 194000
+
+	state_category = large_city
+
+	history={
+		owner = JP1
+		buildings = {
+			industrial_complex = 0
+			arms_factory = 2
+			dockyard = 2
+		}
+		victory_points = {
+			 4378 20
+		}
+		victory_points = {
+			 4041 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4041 4522 4591 4783 3511 4378
+	}
+}

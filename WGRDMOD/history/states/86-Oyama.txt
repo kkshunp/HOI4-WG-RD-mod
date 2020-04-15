@@ -1,0 +1,32 @@
+state={
+	id=86
+	name="Simotuma" 
+	manpower = 648916
+
+	state_category = large_city
+	resources={
+		chromium=2
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =3
+		}
+		victory_points = {
+			 4624 2
+		}
+		victory_points = {
+			 3886 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2430 2935 1544 4624 3726 3886 5852 5800
+	}
+}

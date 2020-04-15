@@ -1,0 +1,29 @@
+state={
+	id=3
+	name="Monbetu" 
+	manpower = 31000
+
+	state_category = rural
+	resources={
+		tungsten=4
+		oil=6
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			 2514 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3616 3015 4706 2642 4331
+	}
+}

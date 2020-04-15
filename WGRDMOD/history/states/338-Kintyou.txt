@@ -1,0 +1,41 @@
+state={
+	id=338
+	name="Kin" 
+	manpower = 95000
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=7
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+ 				
+		}
+		victory_points = {
+			 157 2 
+		}
+		victory_points = {
+			 157 1
+		}
+		victory_points = {
+			 249 1
+		}
+		victory_points = {
+			 78 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	157 2209 577 1868 2208 78 2772 565 3277
+	}
+}

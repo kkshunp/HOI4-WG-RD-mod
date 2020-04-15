@@ -1,0 +1,24 @@
+state={
+	id=6
+	name="Isikari" 
+	manpower = 8600
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			fuel_silo = 1
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4337 1916 3983 2514
+	}
+}

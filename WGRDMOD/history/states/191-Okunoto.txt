@@ -1,0 +1,42 @@
+state={
+	id=191
+	name="Okunoto" 
+	manpower = 70022
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			5190 3
+		}
+		victory_points = {
+			5662 2
+		}
+		victory_points = {
+			5668 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+		5686 5682 5690 2216 3053 5688 5689 5190 3053 5679 5282 5240 5217 5668 5106 5653 5662 5318 5673
+	}
+}

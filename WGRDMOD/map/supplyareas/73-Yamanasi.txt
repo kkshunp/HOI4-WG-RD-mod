@@ -1,0 +1,8 @@
+supply_area={
+	id=73
+	name="Yamanasi"
+	value=7
+	states={
+		154 369
+	}
+}

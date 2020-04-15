@@ -1,0 +1,26 @@
+state={
+	id=35
+	name="Yurihonzyou" 
+	manpower = 10811
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			 1 1
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2639 217 532 1708 3376 1000 885 1180 2873 764 3636
+	}
+}

@@ -1,0 +1,32 @@
+state={
+	id=12
+	name="Sapporo" 
+	manpower = 3791000
+
+	state_category = megalopolis
+	resources={
+		steel=22
+		rubber=15
+		oil=39
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+		victory_points = {
+			 2222 50
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2217 3753 2383 2222 1667 2058 2712 1757 3643 2828
+	}
+}

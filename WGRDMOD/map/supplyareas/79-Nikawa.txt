@@ -1,0 +1,8 @@
+supply_area={
+	id=79
+	name="Nikawa"
+	value=5
+	states={
+		166 379
+	}
+}

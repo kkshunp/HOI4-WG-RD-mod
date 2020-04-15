@@ -1,0 +1,36 @@
+state={
+	id=377
+	name="Simanto" 
+	manpower =100140
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=20
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			3374 5
+		}
+		victory_points = {
+			 3256 5
+		}
+		
+		victory_points = {
+			 3551 3
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	370 3551 1745 3129 3551 5591 3027 522 3027 3276 898 3667 3483 3392 3652 3256 3374 6144 6150
+	}
+}

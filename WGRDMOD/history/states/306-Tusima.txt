@@ -1,0 +1,46 @@
+state={
+	id=306
+	name="Tusima" 
+	manpower = 52125
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=15
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			fuel_silo = 1
+			air_base = 2
+				
+			5175 = {
+				naval_base = 1
+			}
+			4512 = {
+				naval_base = 4
+			}
+			5430 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 5175 2 
+		}
+		victory_points = {
+			 5440 10
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5175 5471 5430 4637 5474 5440 4512 3743 4030 5462 2125 2956 3914 1432
+	}
+}

@@ -1,0 +1,43 @@
+state={
+	id=354
+	name="Niita" 
+	manpower = 14557
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+
+		}
+		victory_points = {
+			5848 1
+		}
+		victory_points = {
+			5851 1
+		}
+		victory_points = {
+			5856 2
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces= {
+	5856 5148 5859 5857 5848 5295 5849 5850 5851 3678
+	}
+}

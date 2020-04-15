@@ -1,0 +1,36 @@
+
+state={
+	id=403
+	name="Saito"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			2076 5 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		194 1047 1179 2076 2448 2585 2708 3838 
+	}
+	manpower=98380
+	buildings_max_level_factor=1.000
+	state_category=town
+}

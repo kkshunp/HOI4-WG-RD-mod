@@ -1,0 +1,166 @@
+hys_effect_houkai_0 = {
+	set_global_flag = HYG_houkai_yes
+	239 = {add_core_of = SET}
+	SET = {transfer_state = 239}
+	240 = {add_core_of = SET}
+	SET = {transfer_state = 240}
+	245 = {add_core_of = HRI}
+	HRI = {transfer_state = 245}
+	378 = {add_core_of = HRI}
+	HRI = {transfer_state = 378}
+	246 = {add_core_of = HRI}
+	HRI = {transfer_state = 246}
+	248 = {add_core_of = TZM}
+	TZM = {transfer_state = 248}
+	244 = {add_core_of = TNB}
+	TZM = {transfer_state = 247}
+	247 = {add_core_of = TZM}
+	TNB = {transfer_state = 241}
+	241 = {add_core_of = TNB}
+	TNB = {transfer_state = 244}
+	243 = {add_core_of = AWZ}
+	AWZ = {transfer_state = 243}
+}
+hys_effect_houkai_1 = {
+	242 = {add_core_of = AWZ}
+	AWZ = {transfer_state = 242}
+	#change_tag_from = SET
+	SET = {
+		add_ideas = HYO_GO_Naisen2
+		add_ideas = HYO_GO_Naisen
+		add_timed_idea = {idea = SET_zantou days = 600}
+		hys_effect_houkai_2 = yes
+		load_oob = SET_naisen
+		add_equipment_to_stockpile={type = infantry_equipment amount = 2000 producer = HYG}
+		declare_war_on = {target = HRI type = civil_war}
+		declare_war_on = {target = TZM type = civil_war}
+		declare_war_on = {target = TNB type = civil_war}
+		declare_war_on = {target = AWZ type = civil_war}
+		every_country = {
+			add_opinion_modifier = {
+				target = SET
+				modifier = HYS_trade_no
+			}
+			add_opinion_modifier = {
+				target = SET
+				modifier = HYS_trade_no1
+			}
+			add_opinion_modifier = {
+				target = SET
+				modifier = HYS_trade_no2
+			}
+		}
+	}
+	HRI = {
+		add_equipment_to_stockpile={type = infantry_equipment amount = 2000 producer = HYG}
+		load_oob = HRI_naisen
+		add_ideas = HYO_GO_Naisen2
+		add_ideas = HYO_GO_Naisen
+		hys_effect_houkai_2 = yes
+		declare_war_on = {target = TZM type = civil_war}
+		declare_war_on = {target = TNB type = civil_war}
+		declare_war_on = {target = AWZ type = civil_war}
+		every_country = {
+			add_opinion_modifier = {
+				target = HRI
+				modifier = HYS_trade_no
+			}
+			add_opinion_modifier = {
+				target = HRI
+				modifier = HYS_trade_no1
+			}
+			add_opinion_modifier = {
+				target = HRI
+				modifier = HYS_trade_no2
+			}
+		}
+	}
+	TZM = {
+		add_equipment_to_stockpile={type = infantry_equipment amount = 2000 producer = HYG}
+		load_oob = TZM_naisen
+		add_ideas = HYO_GO_Naisen2
+		add_ideas = HYO_GO_Naisen
+		hys_effect_houkai_2 = yes
+		declare_war_on = {target = TNB type = civil_war}
+		declare_war_on = {target = AWZ type = civil_war}
+		every_country = {
+			add_opinion_modifier = {
+				target = TZM
+				modifier = HYS_trade_no
+			}
+			add_opinion_modifier = {
+				target = TZM
+				modifier = HYS_trade_no1
+			}
+			add_opinion_modifier = {
+				target = TZM
+				modifier = HYS_trade_no2
+			}
+		}
+	}
+	TNB = {
+		add_equipment_to_stockpile={type = infantry_equipment amount = 2000 producer = HYG}
+		load_oob = TNB_naisen
+		add_ideas = HYO_GO_Naisen2
+		add_ideas = HYO_GO_Naisen
+		hys_effect_houkai_2 = yes
+		declare_war_on = {target = AWZ type = civil_war}
+		every_country = {
+			add_opinion_modifier = {
+				target = TNB
+				modifier = HYS_trade_no
+			}
+			add_opinion_modifier = {
+				target = TNB
+				modifier = HYS_trade_no1
+			}
+			add_opinion_modifier = {
+				target = TNB
+				modifier = HYS_trade_no2
+			}
+		}
+	}
+	AWZ = {
+		add_equipment_to_stockpile={type = infantry_equipment amount = 2000 producer = HYG}
+		load_oob = AWZ_naisen
+		add_ideas = HYO_GO_Naisen2
+		add_ideas = HYO_GO_Naisen
+		hys_effect_houkai_2 = yes
+		every_country = {
+			add_opinion_modifier = {
+				target = AWZ
+				modifier = HYS_trade_no
+			}
+			add_opinion_modifier = {
+				target = AWZ
+				modifier = HYS_trade_no1
+			}
+			add_opinion_modifier = {
+				target = AWZ
+				modifier = HYS_trade_no2
+			}
+		}
+	}
+	news_event = HYG.19
+	TKS = {country_event = { days = 3 id = HYG.21 }}
+}
+hys_effect_houkai_2 = {
+	add_ideas = HYS_mutituzyo_hanran
+	add_ideas = HYS_sikikeitou_guntai
+	add_ideas = HYS_sidousha_kokka
+	add_ideas = HYS_sangyou_houkai
+	add_ideas = HYS_tyouhei
+	load_focus_tree = HYS
+	add_state_claim = 243
+	add_state_claim = 248
+	add_state_claim = 244
+	add_state_claim = 241
+	add_state_claim = 240
+	add_state_claim = 246
+	add_state_claim = 239
+	add_state_claim = 378
+	add_state_claim = 247
+	add_state_claim = 245
+	add_state_claim = 242
+	add_stability = -0.2
+}

@@ -1,0 +1,43 @@
+state={
+	id=342
+	name="Miyakozima" 
+	manpower = 51000
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=18
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			fuel_silo = 1
+			air_base = 4
+ 				
+			3336 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			 3336 8
+		}
+		victory_points = {
+			 1246 2
+		}
+		victory_points = {
+			 4569 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3702 2366 3289 3336 4863 3271 2073 2784 4601 4792 1246 3437 4569 4567 2256
+	}
+}

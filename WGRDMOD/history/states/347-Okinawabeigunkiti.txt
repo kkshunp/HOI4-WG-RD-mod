@@ -1,0 +1,39 @@
+state={
+	id=347
+	name="BeigunKiti" 
+	manpower = 44963
+	
+	state_category = wasteland
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		set_demilitarized_zone = yes
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+				3250 = {
+				naval_base = 1
+			}
+						2997 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			 1 1 
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4888 3791 2997 1032 3847 330 2242 3278 249 3454 2741 1670 3265 3250
+	}
+}

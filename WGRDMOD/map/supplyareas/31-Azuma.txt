@@ -1,0 +1,8 @@
+supply_area={
+	id=31
+	name="Azuma"
+	value=6
+	states={
+		70 71
+	}
+}

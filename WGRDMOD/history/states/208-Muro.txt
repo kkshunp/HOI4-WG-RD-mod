@@ -1,0 +1,35 @@
+state={
+	id=208
+	name="Muro" 
+	manpower =31210
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=66
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+				
+			2527 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			 2527 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2857 1799 1912 2527 1747 386 2050 574 1200 3651 2300 286 731
+	}
+}

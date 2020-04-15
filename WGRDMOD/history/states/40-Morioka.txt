@@ -1,0 +1,33 @@
+state={
+	id=40
+	name="Morioka" 
+	manpower = 444641
+
+	state_category = large_city
+	resources={
+
+		steel=18
+		tungsten=67
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 5
+			arms_factory =  2
+			air_base = 2
+		}
+		victory_points = {
+			 1154 30
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1896 3757 3582 4048 4526 3287 3199 2941 4410 2466 2091 2684 1282 5041 1155 3056 4548 4171 3158 3541 1154 1490 3662 1056 3646 4150 2002 3799 4880 2611 4384 2834 3912 3057 4260
+	}
+}

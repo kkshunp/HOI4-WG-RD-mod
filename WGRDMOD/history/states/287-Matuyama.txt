@@ -1,0 +1,38 @@
+state={
+	id=287
+	name="Matuyama" 
+	manpower = 886542
+
+	state_category = large_city
+	resources={
+		chromium=10
+		aluminium=0
+		steel=12
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 2
+		} 
+		victory_points = {
+			 2298 2
+		}
+		victory_points = {
+			 5049 5
+		}
+		victory_points = {
+			 3762 25
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2298 3312 3900 2084 5049 5319 4995 3762 2034 4845 4520 4943 5606 5599 5602
+	}
+}

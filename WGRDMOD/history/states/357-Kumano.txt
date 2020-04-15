@@ -1,0 +1,36 @@
+state={
+	id=357
+	name="Kumano" 
+	manpower = 22502
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+
+		}
+		victory_points = {
+			2787 2
+		}
+		victory_points = {
+			4358 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces= {
+	4358 3709 2761 2698 4332 5521 4879 4072 3114 3988 4599 2787 1815 2262 4738 6043 6046 6044 2710
+	}
+}

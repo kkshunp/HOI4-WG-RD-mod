@@ -1,0 +1,36 @@
+state={
+	id=232
+	name="Souraku" 
+	manpower = 254120
+
+	state_category = large_town
+	resources={
+		chromium=0
+		aluminium=2
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =4
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 181 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	181 2018 1450
+	}
+}

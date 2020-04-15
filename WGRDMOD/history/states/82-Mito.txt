@@ -1,0 +1,33 @@
+state={
+	id=82
+	name="Mito" 
+	manpower = 586886
+
+	state_category = metropolis
+	resources={
+		aluminium=14
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 6
+			air_base = 2
+3683 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			3458 30
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4355 1455 1720 2166 2087 3683 1017 2604 2739 4472 3458 2714 1892 2142 3122 1777 
+	}
+}

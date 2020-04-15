@@ -1,0 +1,24 @@
+state={
+	id=124
+	name="Hatizyouzima" 
+	manpower = 7525
+
+	state_category = small_island
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			5183 = {
+				naval_base = 1
+			}
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	5183 5135
+	}
+}

@@ -1,0 +1,32 @@
+state={
+	id=188
+	name="Hakusan" 
+	manpower = 36391
+
+	state_category = city
+	resources={
+		steel=28
+		tungsten=8
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 5075 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5141 5075 5047 4375 5076 5657 5649 5659 5646 5656 5980 5984 3177 5983 5698 2594 1902 5694 5990 5991 5987 5988 2005 
+	}
+}

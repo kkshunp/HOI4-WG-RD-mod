@@ -1,0 +1,29 @@
+state={
+	id=100
+	name="Gyouda" 
+	manpower = 184501
+
+	state_category = city
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+		}
+		add_core_of = JP1
+		victory_points = {
+			4607 2
+		}
+		victory_points = {
+			5288 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5288 4607 4310 5292
+	}
+}

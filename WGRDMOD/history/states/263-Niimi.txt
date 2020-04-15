@@ -1,0 +1,36 @@
+
+state={
+	id=263
+	name="Niimi"
+	resources={
+		chromium=4.000
+		aluminium=0.000
+		steel=22.000
+		tungsten=0.000
+		rubber=45.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 0
+
+		}
+		victory_points = {
+			 6096 2
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2688 4122 6094 6095 6096 6097 
+	}
+	manpower=25777
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

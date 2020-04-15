@@ -1,0 +1,31 @@
+state={
+	id=372
+	name="Sionoe" 
+	manpower = 92541
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+		}
+		victory_points = {
+			 5562 3
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	5568 5612 5558 4849 4674 5563
+	}
+}

@@ -1,0 +1,35 @@
+state={
+	id=49
+	name="Kesennuma" 
+	manpower = 93000
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			arms_factory = 2
+			2640 = {
+				naval_base = 1
+			}
+		}
+	state_category = town
+	resources={
+		chromium=1
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			 2640 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2640 42 4102 1407 68 3229 5061 61 5747
+}

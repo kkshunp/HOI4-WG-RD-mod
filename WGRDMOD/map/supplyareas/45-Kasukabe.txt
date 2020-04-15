@@ -1,0 +1,8 @@
+supply_area={
+	id=45
+	name="Kasukabe"
+	value=7
+	states={
+		100 104 102
+	}
+}

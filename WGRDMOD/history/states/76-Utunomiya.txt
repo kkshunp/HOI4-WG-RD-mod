@@ -1,0 +1,37 @@
+state={
+	id=76
+	name="Utunomiya" 
+	manpower = 785612
+
+	state_category = metropolis
+	resources={
+		chromium=11
+		aluminium=9
+		steel=15
+		tungsten=6
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			arms_factory = 5
+		}
+
+		victory_points = {
+			 829 30
+		}
+		victory_points = {
+			 1882 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	598 491 640 346 559 1882 829 1425 2071 2651 2096 1095
+	}
+}

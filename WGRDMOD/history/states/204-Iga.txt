@@ -1,0 +1,36 @@
+state={
+	id=204
+	name="Tyusei" 
+	manpower = 354510
+
+	state_category = town
+	resources={
+		chromium=1
+		aluminium=1
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 4073 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4073 1726 5283 3821 3407 3955 4878 5516 3332 4575 2288 4730 3570 5243 6039 6040 
+	}
+}

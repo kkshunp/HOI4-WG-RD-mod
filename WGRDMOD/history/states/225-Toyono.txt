@@ -1,0 +1,45 @@
+state={
+	id=225
+	name="Sakai" 
+	manpower = 2101000
+
+	state_category = megalopolis
+	resources={
+		chromium=8
+		aluminium=7
+		steel=32
+		tungsten=55
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =10
+			arms_factory = 3
+			dockyard = 2
+					3931 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			4280 25
+		}
+		victory_points = {
+			 4528 5
+		}
+		victory_points = {
+			 3073 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4280 5380 3073 2994 3931
+	}
+}

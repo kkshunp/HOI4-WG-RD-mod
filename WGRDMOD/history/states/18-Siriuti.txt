@@ -1,0 +1,24 @@
+state={
+	id=18
+	name="Siriuti" 
+	manpower = 5403
+
+	state_category = city
+	resources={
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4029 2328 4275 1995 3696 2983 3879 4231 4746
+	}
+}

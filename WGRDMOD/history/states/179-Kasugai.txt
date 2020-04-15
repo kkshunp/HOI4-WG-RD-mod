@@ -1,0 +1,31 @@
+state={
+	id=179
+	name="Kasugai" 
+	manpower = 322000
+
+	state_category = city
+	resources={
+		oil=110
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 2
+				
+		}
+		victory_points = {
+			 2548 10
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2078 2548 12 1595 6344
+	}
+}

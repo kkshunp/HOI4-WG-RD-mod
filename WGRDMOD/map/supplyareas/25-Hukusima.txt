@@ -1,0 +1,8 @@
+supply_area={
+	id=25
+	name="Hukusima"
+	value=8
+	states={
+		55
+	}
+}

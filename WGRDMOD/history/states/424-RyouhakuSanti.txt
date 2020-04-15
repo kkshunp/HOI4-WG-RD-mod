@@ -1,0 +1,37 @@
+
+state={
+	id=424
+	name="RyouhakuSati"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			3876 3 
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		6406 2742 5335 5691 5692 2338 5196 6380 6373 1992 5169 6372w
+	}
+	manpower = 41000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

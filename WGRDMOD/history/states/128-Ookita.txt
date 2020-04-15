@@ -1,0 +1,31 @@
+state={
+	id=128
+	name="Ookita" 
+	manpower = 85601
+
+	state_category = rural
+	resources={
+		steel=12
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			 2152 2
+		}
+		victory_points = {
+			 3098 1
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	2576 4014 2152 3526 2391 4884 4245 3151 37800 3098 3844 4505 4661 3372 4529 4178 3780
+	}
+}

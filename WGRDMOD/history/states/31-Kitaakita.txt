@@ -1,0 +1,32 @@
+state={
+	id=31
+	name="Kitaakita" 
+	manpower = 195000
+
+	state_category = city 
+	resources={
+		chromium= 7
+		aluminium=4
+		tungsten=1
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			fuel_silo = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			 654 20
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	684 1988 1539 2957 609 2355 3297 4114 963 2546 5737 5736
+	}
+}

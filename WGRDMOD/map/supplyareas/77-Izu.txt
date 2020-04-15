@@ -1,0 +1,8 @@
+supply_area={
+	id=77
+	name="Izu"
+	value=4
+	states={
+		157 158 160
+	}
+}

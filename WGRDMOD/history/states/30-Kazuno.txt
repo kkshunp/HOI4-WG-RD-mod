@@ -1,0 +1,24 @@
+state={
+	id=30
+	name="Kazuno" 
+	manpower = 49000
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+ 
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4555 735 3205 2240 91 15174 1167 15378 5738 5735 
+	} 
+}

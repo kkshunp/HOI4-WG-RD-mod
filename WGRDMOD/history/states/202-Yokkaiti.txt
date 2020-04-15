@@ -1,0 +1,36 @@
+state={
+	id=202
+	name="Yokkaiti" 
+	manpower = 451230
+
+	state_category = large_city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 3
+				
+		}
+		victory_points = {
+			 3604 20
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3825 1672 2223 5399 4790 4219 668 6007 1353 2389 3604
+	}
+}

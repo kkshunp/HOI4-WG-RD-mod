@@ -1,0 +1,8 @@
+supply_area={
+	id=49
+	name="Hatiouzi"
+	value=6
+	states={
+		118 119
+	}
+}

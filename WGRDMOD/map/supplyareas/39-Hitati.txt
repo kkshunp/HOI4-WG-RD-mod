@@ -1,0 +1,8 @@
+supply_area={
+	id=39
+	name="Hitati"
+	value=10
+	states={
+		81 186
+	}
+}

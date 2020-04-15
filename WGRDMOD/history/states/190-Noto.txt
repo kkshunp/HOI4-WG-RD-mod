@@ -1,0 +1,43 @@
+state={
+	id=190
+	name="Noto" 
+	manpower = 180662
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+				
+			air_base = 2
+		}
+		victory_points = {
+			 3598 5
+		}
+		victory_points = {
+			 4583 2
+		}
+		victory_points = {
+			 5670 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2406 4583 5667 5676 5191 4251 5156 5677 5672 3598 5172 5661 5670 5664 5684 5188 2146 3263 5005
+	}
+}

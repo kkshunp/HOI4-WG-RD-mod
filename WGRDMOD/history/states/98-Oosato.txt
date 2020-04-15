@@ -1,0 +1,33 @@
+state={
+	id=98
+	name="Oosato" 
+	manpower = 33749
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+		}
+		victory_points = {
+			4772 2
+		}
+		victory_points = {
+			3788 5
+		}
+		victory_points = {
+			5884 3
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	4772 5888 5885 5881 5297 4285 4157 3788 3360 5884
+	}
+}

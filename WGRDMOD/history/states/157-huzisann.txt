@@ -1,0 +1,30 @@
+state={
+	id=157
+	name="hudisann" 
+	manpower = 43700
+
+	state_category = rural
+	resources={
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0 
+			arms_factory = 0 
+		}
+		victory_points = {
+			 560 1
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		3562 4881 5945 560 2524 2869
+	}
+}

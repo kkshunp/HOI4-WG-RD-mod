@@ -1,0 +1,35 @@
+state={
+	id=303
+	name="Isahaya" 
+	manpower = 103541
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 2
+		}
+		victory_points = {
+			 5003 5 
+		}
+		victory_points = {
+			 4368 5 
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2918 5037 5450 4368 4506 5003 4839 5163 4946 6166 5491
+	}
+}

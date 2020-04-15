@@ -1,0 +1,35 @@
+state={
+	id=265
+	name="Kurayosi" 
+	manpower = 57515
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 4926 3
+		}
+		victory_points = {
+			 4520 3
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4724 4815 3301 6086 6231 6227 6228 3566 6230 6232 6233
+	}
+}

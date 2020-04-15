@@ -1,0 +1,8 @@
+supply_area={
+	id=16
+	name="Iwate"
+	value=6
+	states={
+		41 39 38
+	}
+}

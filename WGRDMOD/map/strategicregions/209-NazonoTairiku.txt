@@ -1,0 +1,179 @@
+
+strategic_region={
+	id=209
+	name="Nazonotairiku"
+	provinces={
+		1771 4183 4758 3950 1865 2973 4440 3212 3734 3577 3841 3422 4722 4452 4534 3861 4436 2455 4108 4609 4677 3987 4273 2420 1742 3919 4422 3864 4065 4242 4843 4434 4957 3714 4620 4145 3634 4611 4659 4225 5161 4124 4205 4012 4277 4463 4540 4699 3772 4559 4800 4418 5181 3966 4808 4064 4816 3163 2806 3036 2728 366 2766 2319 1906 2413 2816 2370 6268 6269 6270 6271 6272 6273 6274 6275 6276 6277 6278 6279 6280 6281 6282 6283 6284 6285 6286 6287 6289 6290 6288 6292 6291 6293 6294 6295 6296 6297 2785 6298 6299
+	}
+	weather={
+		period={
+			between={ 0.0 30.0 }
+			temperature={ 2.0 8.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.500
+			rain_light=0.460
+			rain_heavy=0.040
+			snow=0.100
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.1 27.1 }
+			temperature={ 5.0 11.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.450
+			rain_light=0.440
+			rain_heavy=0.050
+			snow=0.060
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.2 30.2 }
+			temperature={ 9.0 16.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.500
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.020
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.3 29.3 }
+			temperature={ 16.0 20.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.500
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.4 30.4 }
+			temperature={ 22.0 25.0 }
+			temperature_day_night={ 6.0 -6.0 }
+			no_phenomenon=0.550
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.5 29.5 }
+			temperature={ 25.0 29.0 }
+			temperature_day_night={ 9.0 -9.0 }
+			no_phenomenon=0.600
+			rain_light=0.360
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.6 30.6 }
+			temperature={ 29.0 32.0 }
+			temperature_day_night={ 9.0 -9.0 }
+			no_phenomenon=0.650
+			rain_light=0.230
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.7 30.7 }
+			temperature={ 25.0 33.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.600
+			rain_light=0.280
+			rain_heavy=0.120
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.8 29.8 }
+			temperature={ 21.0 29.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.600
+			rain_light=0.300
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.9 30.9 }
+			temperature={ 15.0 24.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.650
+			rain_light=0.300
+			rain_heavy=0.050
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.10 29.10 }
+			temperature={ 10.0 18.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.650
+			rain_light=0.300
+			rain_heavy=0.050
+			snow=0.000
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 0.11 30.11 }
+			temperature={ 3.0 11.0 }
+			temperature_day_night={ 8.0 -8.0 }
+			no_phenomenon=0.600
+			rain_light=0.460
+			rain_heavy=0.040
+			snow=0.100
+			blizzard=0.000
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 4.11 21.11 }
+			temperature={ -10.0 35.0 }
+			temperature_day_night={ 2.0 -2.0 }
+			no_phenomenon=1.500
+			rain_light=0.250
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			mud=0.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+	}
+}

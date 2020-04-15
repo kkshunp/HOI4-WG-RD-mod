@@ -1,0 +1,8 @@
+supply_area={
+	id=38
+	name="Ryugasaki"
+	value=6
+	states={
+		85
+	}
+}

@@ -1,0 +1,36 @@
+state={
+	id=236
+	name="Nantan" 
+	manpower = 365410
+
+	state_category = large_town
+	resources={
+		chromium=8
+		aluminium=11
+		steel=0
+		tungsten=1
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =3
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 2707 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1794 112 1301 1300 434 798 407 3784 2044 2667 3008 2505 1386 2505 2707 1162 195 3393 6056 6055
+	}
+}

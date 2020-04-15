@@ -1,0 +1,30 @@
+
+state={
+	id=175
+	name="Sirakawa"
+	resources={
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			5356 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5331 5356 4021 3011 3352 5315 4803 4894 6405 4376
+	}
+	manpower=18667
+	state_category=town
+}

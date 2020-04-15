@@ -1,0 +1,38 @@
+state={
+	id=353
+	name="Asikaga" 
+	manpower = 41057
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+
+		}
+		
+		add_core_of = JP1
+		victory_points = {
+			 3560 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces= {
+	 3560 5843 5841
+	}
+}

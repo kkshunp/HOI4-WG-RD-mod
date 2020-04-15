@@ -1,0 +1,26 @@
+bookmarks = {
+	bookmark = {
+		name = "RADE_ON_TOKYO_NAME"
+		desc = "RADE_ON_TOKYO_DESC"
+		date = 1985.1.7.12
+		picture = "GFX_select_date_1936"
+		default_country = "GNM"
+		
+		"SOV"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = communism
+		}
+		"JP1"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+		}
+		"US1"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+		}
+		
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+	}
+}

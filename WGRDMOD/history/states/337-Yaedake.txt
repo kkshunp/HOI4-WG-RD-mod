@@ -1,0 +1,41 @@
+state={
+	id=337
+	name="Yaedake" 
+	manpower = 50000
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=35
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+ 			dockyard = 2
+						4053 = {
+				naval_base = 4
+			}
+		}
+
+
+		victory_points = {
+			 3346 2
+		}
+		victory_points = {
+			 5275 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2884 4053 3346 4364 3632 3318 5089 4265 2849 5275 
+4361
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=32
+	name="Yamasiro" 
+	manpower = 125491
+
+	state_category = rural
+	resources={
+		chromium=10
+		aluminium=21
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4391 3896 2529 1684 727 3118 4392
+	}
+}

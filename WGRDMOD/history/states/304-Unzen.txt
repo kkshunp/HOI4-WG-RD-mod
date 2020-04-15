@@ -1,0 +1,35 @@
+state={
+	id=304
+	name="Unzen" 
+	manpower = 220500
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 2
+		}
+		victory_points = {
+			 4682 5
+		}
+		victory_points = {
+			 3248 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4682 3798 4902 5504 2387 5499 4261 3248 4093
+	}
+}

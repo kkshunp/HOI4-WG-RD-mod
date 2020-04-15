@@ -1,0 +1,8 @@
+supply_area={
+	id=103
+	name="Ito"
+	value=5
+	states={
+	210 209 208 359 358
+	}
+}

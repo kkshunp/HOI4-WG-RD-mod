@@ -1,0 +1,47 @@
+state={
+	id=193
+	name="Fukui" 
+	manpower = 442000
+
+	state_category = large_city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			industrial_complex = 1
+			arms_factory = 1
+			fuel_silo = 1
+			5729 = {
+				naval_base = 2
+			}
+				
+		}
+		victory_points = {
+			1378 15
+		}
+		victory_points = {
+			2224 5
+		}
+		victory_points = {
+			2617 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2617 1248 2637 2615 3357 2287 1378 5707 5714 5724 5729 5728 5716 5710 5718 5709 5702 5701 5727
+	}
+}

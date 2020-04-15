@@ -1,0 +1,39 @@
+
+state={
+	id=279
+	name="Asa"
+	resources={
+		chromium=0.000
+		aluminium=12.000
+		steel=26.000
+		tungsten=0.000
+		rubber=0.000
+		oil=35.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			4887 3 
+		}
+		victory_points = {
+			3907 3 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3320 3429 3433 3568 3907 4403 4518 4723 4887 
+	}
+	manpower=211055
+	buildings_max_level_factor=1.000
+	state_category=city
+}

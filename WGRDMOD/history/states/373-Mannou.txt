@@ -1,0 +1,31 @@
+state={
+	id=373
+	name="Mannou" 
+	manpower = 52515
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+		}
+		victory_points = {
+			4365 2
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	5581 4748 3609 4545 5574 5081 4365 6123 5582 5059
+	}
+}

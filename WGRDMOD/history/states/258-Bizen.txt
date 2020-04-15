@@ -1,0 +1,43 @@
+
+state={
+	id=258
+	name="Bizen"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			dockyard = 2
+			3891 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			3605 5 
+		}
+		victory_points = {
+			3891 3 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2441 3110 3605 3891 6078 6079 
+	}
+	manpower=125000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=94
+	name="Nishu"
+	value=5
+	states={
+		195 382
+	}
+}

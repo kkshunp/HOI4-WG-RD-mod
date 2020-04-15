@@ -1,0 +1,42 @@
+
+state={
+	id=268
+	name="Osan"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 3
+
+		}
+		victory_points = {
+			3878 5 
+		}
+		victory_points = {
+			2972 3 
+		}
+		victory_points = {
+			4143 3 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2972 3412 3878 4143 4250 4448 4517 4757 4924 5221 
+	}
+	manpower=251157
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,28 @@
+state={
+	id=132
+	name="Suwa" 
+	manpower = 54120 
+
+	state_category = rural
+	resources={
+	aluminium=3
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			2442 3
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	4530 2345 4385 4734 1758 3293 2442 1881 2228 1646
+	}
+}

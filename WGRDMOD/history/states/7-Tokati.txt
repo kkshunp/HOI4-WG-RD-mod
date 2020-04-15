@@ -1,0 +1,26 @@
+state={
+	id=7
+	name="Tokati" 
+	manpower = 32000
+
+	state_category = rural
+	resources={
+		steel=58
+		oil=44
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4566 3469 2185 4164 3615 3135
+	}
+}

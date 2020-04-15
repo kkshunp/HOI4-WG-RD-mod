@@ -1,0 +1,27 @@
+state={
+	id=38
+	name="Hatimantai" 
+	manpower = 11360 
+
+	state_category = town
+	resources={
+		steel=10
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			arms_factory =  1
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of =JP1
+	}
+
+	provinces={
+	4602 3948 2536 4687 2570 2614 2704 3124 2312 780 4626 744 1420
+	}
+}

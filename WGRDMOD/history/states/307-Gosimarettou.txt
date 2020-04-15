@@ -1,0 +1,42 @@
+state={
+	id=307
+	name="Gotourettou" 
+	manpower = 51000
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=15
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			air_base = 3
+			arms_factory = 0
+				
+			4652 = {
+				naval_base = 2
+			}
+			5035 = {
+				naval_base = 1
+				}
+		}
+		victory_points = {
+			 4824 3
+		}
+		victory_points = {
+			 3607 3
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4652 3470 5477 4824 3578 5017 4043 3607 4763 5482 4216 5035 2292 3368
+	}
+}

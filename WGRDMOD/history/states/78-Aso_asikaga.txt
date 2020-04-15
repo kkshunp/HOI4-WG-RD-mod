@@ -1,0 +1,38 @@
+state={
+	id=78
+	name="AsoSano" 
+	manpower = 22526
+
+	state_category = town
+	resources={
+		chromium=64
+		aluminium=54
+	}
+	history={
+		owner = JP1
+		buildings = {
+			industrial_complex =1
+			fuel_silo = 1
+			infrastructure = 4
+			4840 = {
+				bunker = 1
+			}
+			4576 = {
+				bunker = 1
+			}
+			
+		}
+		victory_points = {
+				3026 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4576 3026 2153 1649 2725 3630 5840 5842 3014 4840
+	}
+}

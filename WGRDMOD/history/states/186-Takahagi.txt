@@ -1,0 +1,31 @@
+state={
+	id=186
+	name="Takahagi" 
+	manpower = 11536
+
+	state_category = town
+	resources={
+		oil=64
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 1052 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3817 1052 5794 5795 4295
+	}
+}

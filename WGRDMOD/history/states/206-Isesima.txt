@@ -1,0 +1,32 @@
+state={
+	id=206
+	name="Isesima" 
+	manpower = 94520
+
+	state_category = town
+	resources={
+		chromium=10
+		aluminium=1
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=19
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 1616 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5513 5147 15769 15761 1616 15809 5515 4604 3572 2289 3818 3126 3047 3046 3625 3993 2098 2634 4388
+	}
+}

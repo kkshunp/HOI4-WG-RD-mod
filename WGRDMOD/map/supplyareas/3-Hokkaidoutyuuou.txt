@@ -1,0 +1,8 @@
+supply_area={
+	id=3
+	name="Hokkaidoumannaka"
+	value=4
+	states={
+		7 8 4
+	}
+}

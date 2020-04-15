@@ -1,0 +1,32 @@
+state={
+	id=246
+	name="Akou" 
+	manpower = 254541
+
+	state_category = rural
+	resources={
+		chromium=12
+		aluminium=32
+		steel=0
+		tungsten=0
+		rubber=1
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 3515 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3515 4347 3362 3545 3211 3748 5099 4271 4353 2943 3419 3369
+	}
+}

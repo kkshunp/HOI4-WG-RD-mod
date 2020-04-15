@@ -1,0 +1,37 @@
+state={
+	id=374
+	name="Saizyou" 
+	manpower = 155129
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+		}
+		victory_points = {
+			4024 1
+		}
+		victory_points = {
+			3674 5
+		}
+		victory_points = {
+			3675 5
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	3674 1373 3675 1914 6139 6138
+	}
+}

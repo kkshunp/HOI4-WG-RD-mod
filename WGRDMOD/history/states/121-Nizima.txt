@@ -1,0 +1,23 @@
+state={
+	id=121
+	name="Nizima" 
+	manpower = 3200
+
+	state_category = small_island
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			5184 = {
+				naval_base = 1
+			}
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	5184
+	}
+}

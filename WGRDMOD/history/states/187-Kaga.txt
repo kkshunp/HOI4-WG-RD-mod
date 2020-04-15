@@ -1,0 +1,33 @@
+state={
+	id=187
+	name="Kaga" 
+	manpower = 86039
+
+	state_category = rural
+	resources={
+		steel=20
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		#victory_points = {
+			 #4760 5
+		#}
+		victory_points = {
+			 5387 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5387 5685 5678 5669 5140 4760 5048 4612 5681 5687 5992 5989 1059 5985 5986 2494 5700
+	}
+}

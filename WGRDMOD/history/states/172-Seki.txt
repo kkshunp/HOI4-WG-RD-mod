@@ -1,0 +1,40 @@
+
+state={
+	id=172
+	name="Guzyou"
+	resources={
+		chromium=1
+		aluminium=1
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			5013 5#郡上
+		}
+		victory_points = {
+			 2115 1#下呂
+		}
+		victory_points = {
+			3672 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		4988 4648 4910 5187 4869 5124 4484 5013 3101 2750 2512 2115 4325 2275 4889 3672 6394 6397 6398 6348 6356 6363 6364 6365 6358 6366 3153
+	}
+	manpower=282867
+	state_category=rural
+}

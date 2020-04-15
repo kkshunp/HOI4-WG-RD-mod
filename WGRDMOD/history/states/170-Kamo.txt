@@ -1,0 +1,36 @@
+
+state={
+	id=170
+	name="kamo"
+	resources={
+		aluminium=9
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			5345 3
+		}
+		victory_points = {
+			5972 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5345 5375 4309 3593 5338 5379 5972 3503 5973 6008 6011 6010 6374 6370 6381 6382 6379 6375 6378 6376 6369
+	}
+	manpower=252867
+	state_category=town
+}

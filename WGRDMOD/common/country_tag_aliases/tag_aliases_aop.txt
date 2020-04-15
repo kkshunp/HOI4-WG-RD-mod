@@ -1,0 +1,4 @@
+HYA = {
+	has_country_flag = HYS_gaiteki_owner
+}
+

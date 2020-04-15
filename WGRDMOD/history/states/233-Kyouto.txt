@@ -1,0 +1,39 @@
+state={
+	id=233
+	name="Kyouto" 
+	manpower = 403010
+
+	state_category = metropolis
+	resources={
+		chromium=1
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =5
+			arms_factory = 3
+				
+		}
+		victory_points = {
+			 2353 25
+		}
+		victory_points = {
+			3575 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3575 1558 2353 1908 1072 679 273 6026 6025 6024 2419 446 2108 2907 1733 4100 2810
+	}
+}

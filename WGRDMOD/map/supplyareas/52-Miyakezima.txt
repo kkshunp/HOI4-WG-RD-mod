@@ -1,0 +1,8 @@
+supply_area={
+	id=52
+	name="miyakezima"
+	value=1
+	states={
+		122
+	}
+}

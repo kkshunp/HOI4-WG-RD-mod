@@ -1,0 +1,8 @@
+supply_area={
+	id=12
+	name="Aomorisi"
+	value=9
+	states={
+		27
+	}
+}

@@ -1,0 +1,39 @@
+state={
+	id=203
+	name="Suzuka" 
+	manpower = 295410
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+				
+			4732 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			 5087 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5087 4502 17637 4861 2818 3778 3373 5086 4603 2865 3997 4552
+	}
+}

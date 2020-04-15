@@ -1,0 +1,33 @@
+state={
+	id=8
+	name="Hidaka" 
+	manpower = 29300
+
+	state_category = rural
+	resources={
+		chromium=72
+		aluminium=172
+		steel=298
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			 1939 10
+		}
+		victory_points = {
+			 3724 3
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3724 1939 3811 4900 3354
+	}
+}

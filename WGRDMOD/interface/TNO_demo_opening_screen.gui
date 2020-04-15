@@ -1,0 +1,115 @@
+guiTypes = {
+	containerWindowType = {
+		name = "TNO_demo_opening_screen_button"
+		position = { x=200 y=38 }
+		size = { width=100%% height=100%% }
+
+		buttonType = {
+			name = "topbar_demo_button"
+			position = { x = -148 y = 4 }
+			quadTextureSprite ="GFX_demo_star_button"
+			Orientation = "UPPER_RIGHT"
+			
+			scale = 0.75
+		}
+	}
+
+	containerWindowType = {
+		name = "TNO_demo_opening_screen_main"
+		size = { width = 600 height = 600 }
+		position = { x=690 y=300 }
+		moveable = yes
+		clipping = no
+
+		background = {
+			name = "BG"
+			quadTextureSprite= "GFX_TNO_opening_bg"
+		}
+
+		buttonType = {
+			name = "TNO_opening_screen_button2"
+			quadTextureSprite ="GFX_TNO_opening_emergencybutton"
+			#buttonFont = "vt323_24_outline"
+			#buttonText = "TNO_opening_screen_button"
+			position = { x=420 y=-45 }
+		}
+
+		iconType = {
+			name = "posters"
+			spriteType ="GFX_TNO_opening_posters"
+			position = { x=-203 y=-42 }
+			allwaystransparent = yes
+		}
+		
+		iconType = {
+			name = "Background"
+			spriteType ="GFX_TNO_opening_bg"
+			allwaystransparent = yes
+		}
+
+		containerWindowType = {
+			name = "TNO_TNO_demo_opening_screen_main"
+			size = { width = 503 height = 538 }
+			position = { x=7 y=12 }
+			moveable = no
+			clipping = yes
+			verticalScrollbar = "right_vertical_slider"
+			margin = { top = 3 left = 0 bottom = 3 right = 0}
+
+			background = {
+				name = "BG2"
+				quadTextureSprite= "GFX_TNO_opening_blank_bg"
+			} 
+
+			instantTextBoxType = {
+				name = "opening_title"
+				position = { x = 45 y = 40 }
+				font = "vt323_36_glow"
+				borderSize = {x = 0 y = 0}
+				text = "TNO_OPENING_TITLE"	
+				maxWidth = 400
+				maxHeight = 200
+				format = center
+			}
+
+			instantTextBoxType = {
+				name = "opening_desc"
+				position = { x = 15 y = 80 }
+				font = "vt323_24_glow"
+				borderSize = {x = 0 y = 0}
+				text = "TNO_OPENING_DESC"	
+				maxWidth = 470
+				maxHeight = 500
+				format = left
+			}
+		}
+
+		iconType = {
+			name = "banner"
+			spriteType ="GFX_TNO_opening_banner"
+			position = { x=-100 y=-307 }
+			allwaystransparent = yes
+		}
+
+		buttonType = {
+			name = "TNO_opening_screen_button"
+			quadTextureSprite ="GFX_button_221x34"
+			buttonFont = "Bomb_16"
+			#buttonText = "TNO_opening_screen_button"
+			position = { x=150 y=552 }
+
+		}
+
+		instantTextBoxType = {
+			name = "TNO_opening_screen_button_text"
+			position = { x = 165 y = 560 }
+			font = "Bomb_16"
+			borderSize = {x = 0 y = 0}
+			text = "TNO_OPENING_SCREEN_BUTTON_TEXT"	
+			maxWidth = 200
+			maxHeight = 200
+			format = center
+			allwaystransparent = yes
+		}
+	}
+}

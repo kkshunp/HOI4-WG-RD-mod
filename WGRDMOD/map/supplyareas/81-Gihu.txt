@@ -1,0 +1,8 @@
+supply_area={
+	id=81
+	name="Gihu"
+	value=8
+	states={
+		169
+	}
+}

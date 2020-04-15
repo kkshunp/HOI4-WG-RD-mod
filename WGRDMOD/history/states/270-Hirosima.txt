@@ -1,0 +1,40 @@
+
+state={
+	id=270
+	name="Hirosima"
+	resources={
+		chromium=0.000
+		aluminium=22.000
+		steel=0.000
+		tungsten=0.000
+		rubber=110.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 5
+			arms_factory = 0
+			3920 = {
+				naval_base = 4
+
+			}
+			dockyard = 0
+
+		}
+		victory_points = {
+			3920 30 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3812 3920 4673 4780 4827 4998 
+	}
+	manpower=1266891
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

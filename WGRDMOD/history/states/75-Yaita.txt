@@ -1,0 +1,30 @@
+state={
+	id=75
+	name="Yaita" 
+	manpower = 95130
+
+	state_category = rural
+	resources={
+		chromium=4
+		aluminium=4
+		steel=9
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = JP1
+		victory_points = {
+			782 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	1159 981 1254 782 947 1673
+	}
+}

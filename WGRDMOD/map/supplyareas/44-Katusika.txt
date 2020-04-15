@@ -1,0 +1,8 @@
+supply_area={
+	id=44
+	name="Katusika"
+	value=7
+	states={
+		106 107
+	}
+}

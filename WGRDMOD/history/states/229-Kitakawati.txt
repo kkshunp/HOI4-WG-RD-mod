@@ -1,0 +1,40 @@
+state={
+	id=229
+	name="Kitakawati" 
+	manpower = 356210
+
+	state_category = large_city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =1
+			arms_factory = 2
+			fuel_silo = 1
+				
+		}
+		victory_points = {
+			4257 2
+		}
+		victory_points = {
+			1739 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2988 1739 3819 6069 6068 4257 2908 6070
+	}
+}

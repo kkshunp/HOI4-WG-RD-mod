@@ -1,0 +1,28 @@
+state={
+	id=134
+	name="Kiso" 
+	manpower = 301002
+
+	state_category = rural
+	resources={
+		chromium=4
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			5367 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2922 4078 3481 5367 2748 5388 3977 5955 5954 4982 3315 5958 5957 5956 4136 3097 3501
+	}
+}

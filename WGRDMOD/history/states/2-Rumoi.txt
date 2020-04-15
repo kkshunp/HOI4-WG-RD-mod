@@ -1,0 +1,29 @@
+state={
+	id=2
+	name="Rumoi" 
+	manpower = 30000
+
+	state_category = town
+	resources={
+		tungsten=41
+		oil=28
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			 2861 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2861 2460 4146 4255
+	}
+}

@@ -1,0 +1,42 @@
+
+state={
+	id=412
+	name="Unnan"
+	resources={
+		chromium=12.000
+		aluminium=11.000
+		steel=7.000
+		tungsten=4.000
+		rubber=0.000
+		oil=18.000
+	}
+
+	history={
+		owner = SMN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			2978 5 
+		}
+		victory_points = {
+			3298 3 
+		}
+		victory_points = {
+			2182 3 
+		}
+		add_core_of = SMN
+
+	}
+
+	provinces={
+		858 1390 1556 2157 2182 2351 2475 2510 2905 2978 3222 3298 3480
+	}
+	manpower=49000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

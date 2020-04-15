@@ -1,0 +1,38 @@
+state={
+	id=69
+	name="Maebasi" 
+	manpower = 1067813
+
+	state_category = metropolis
+	resources={
+		chromium=11
+		aluminium=9
+		steel=38
+		tungsten=12
+		rubber=13
+		oil=3
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			arms_factory = 10
+			air_base = 6
+		}
+		victory_points = {
+			4989 30
+		}
+		victory_points = {
+			2541 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2541 1583 2443 1760 5304 2243 3962 5298 4989 5858 5860 1928 2620 3995 1215 4223
+	}
+}

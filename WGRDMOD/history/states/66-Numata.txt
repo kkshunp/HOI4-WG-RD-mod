@@ -1,0 +1,35 @@
+state={
+	id=66
+	name="Numata" 
+	manpower = 850000
+
+	state_category = large_city
+	resources={
+		chromium=15
+		aluminium=19
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =3
+			arms_factory = 5
+		}
+		victory_points = {
+			 3684 10
+		}
+		victory_points = {
+			 2852 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+		3478 292 2342 2069 2852 2094 5806 5808 3684 1977 1423 2866 
+	}
+}

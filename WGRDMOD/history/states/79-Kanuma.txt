@@ -1,0 +1,40 @@
+state={
+	id=79
+	name="Kanuma" 
+	manpower = 225999
+
+	state_category = town
+	resources={
+		steel=15
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4 
+			industrial_complex = 4
+			arms_factory = 0
+			5804 = {
+				bunker = 1
+			}
+			4411 = {
+				bunker = 1
+			}
+			2390 = {
+				bunker = 1
+			}
+
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		victory_points = {
+				3713 1
+			}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4098 3549 3868 2261 1348 2007 4411 3713 2390 3371 5804 5803
+	}
+}

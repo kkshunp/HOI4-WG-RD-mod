@@ -1,0 +1,23 @@
+state={
+	id=118
+	name="Oume" 
+	manpower = 435240
+
+	state_category = city
+	resources={
+		oil=11
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			arms_factory = 4
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	3957 5910 6205 6209 6211
+	}
+}

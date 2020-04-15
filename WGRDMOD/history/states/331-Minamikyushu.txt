@@ -1,0 +1,44 @@
+
+state={
+	id=331
+	name="Minamikyushu"
+	resources={
+		chromium=0.000
+		aluminium=5.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+#			4911 = {
+#				naval_base = 1
+#
+#			}
+
+		}
+		
+		victory_points = {
+			4442 3 
+		}
+		victory_points = {
+			3856 2 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2513 3856 3940 4442 4581 4610 4669 4718 4804 4914 4962 5067 5071 
+	}
+	manpower=87810
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

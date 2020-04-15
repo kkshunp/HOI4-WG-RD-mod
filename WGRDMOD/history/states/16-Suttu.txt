@@ -1,0 +1,26 @@
+state={
+	id=16
+	name="Suttu" 
+	manpower = 2400
+
+	state_category = rural
+	resources={
+		steel=5
+		tungsten=9
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = JP1
+		1985.1.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	2659 3105 2893 3531 3905 2812 4593
+	}
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=173
+	name="Urakiso"
+	resources={
+		chromium=65
+		aluminium=47
+		steel=2
+		tungsten=34
+		oil=28
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 3
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			 4796 4
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		2932 1913 3428 2890 5333 4666 4796 4103 4882 3573 102 5979 1825 3226 6391 6392 6313 6320
+	}
+	manpower=352867
+	state_category=city
+}

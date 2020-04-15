@@ -1,0 +1,36 @@
+state={
+	id=344
+	name="Isigakizima" 
+	manpower = 68000
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=35
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			fuel_silo = 1
+ 				
+			3020 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			 1891 8
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4596 2169 4258 2310 3176 4087 3020 1923 2591 3039 3733 2384 2316 4007 2896 1891 3127 3923
+	}
+}

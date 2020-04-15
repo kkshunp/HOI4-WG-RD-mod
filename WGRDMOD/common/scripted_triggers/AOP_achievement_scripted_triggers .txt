@@ -1,0 +1,290 @@
+#ƒŒƒbƒhƒAƒ‰[ƒg
+achievemen_hok_red= { 
+	AND = {
+	original_tag = HOK
+	has_government = communism 
+	num_of_controlled_states > 100
+	is_puppet = no
+	}
+
+}
+#’ÃŒyŠC‹¬“~ŒiF
+achievement_aom_tugaru= { 
+	AND = {
+	original_tag = AOM
+	owns_state = 23
+	owns_state = 29
+	owns_state = 18
+	owns_state = 19
+	is_puppet = no
+	}
+
+}
+achievement_aom_ten { 
+	AND = {
+	original_tag = AOM
+	has_war = yes
+	casualties > 700000
+	}
+
+}
+achievementsaop_aki_is { 
+	AND = {
+	original_tag = AKI
+	has_war_with = HOK
+	has_war_with = AOM
+	has_war_with = IWA
+	has_war_with = MYG
+	has_war_with = HUK
+	has_war_with = YAG
+	HOK = {has_capitulated = yes}
+	AOM = {has_capitulated = yes}
+	is_in_faction = no
+	}
+}
+achievementsaop_iwa_jeje { 
+	AND = {
+	original_tag = IWA
+	owns_state = 41
+	owns_state = 39
+	owns_state = 42
+		39 = {
+			has_built = {
+   			 type = infrastructure
+  			 value > 9
+		}
+		}
+		41 = {
+			has_built = {
+   			 type = infrastructure
+  			 value > 9
+		}
+		}
+		42 = {
+			has_built = {
+   			 type = infrastructure
+  			 value > 9
+		}
+	}
+}
+}
+achievement_aop_myg_mikado = { 
+	AND = {
+	original_tag = MYG
+	has_idea = MYG_siroisi
+	owns_state = 278
+	owns_state = 277
+	owns_state = 279
+	owns_state = 280
+	owns_state = 281
+	owns_state = 328
+	owns_state = 329
+	owns_state = 329
+	owns_state = 330
+	owns_state = 331
+	owns_state = 333
+	owns_state = 334
+	owns_state = 282
+	owns_state = 283
+	owns_state = 285
+	owns_state = 284
+	}
+}
+achievementsaop_huk_aiz_1 = { 
+	OR = {
+	original_tag = HUK
+	original_tag = AIZ
+	}
+}
+achievementsaop_huk_aiz_2 = { 
+	AND = {
+		OR = {
+		original_tag = HUK
+		original_tag = AIZ
+		}
+		num_of_factories< 36
+		OR = {
+			HOK = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			MYG = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			GNM = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			TKO = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			AIT = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			OSK = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			HKO = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+			ONW = {
+				OR = {
+				is_puppet_of = HUK
+				is_puppet_of = AIZ
+				}
+			}
+		}
+	}
+}
+achievementsaop_yag_ymg = { 
+	AND = {
+		original_tag = YAG
+		OR = {
+		owns_state = 278
+		owns_state = 277
+		owns_state = 279
+		owns_state = 280
+		owns_state = 281
+		}
+	}
+}
+achievementsaop_nig_sdo = { 
+	AND = {
+		original_tag = NIG
+		146 = {is_core_of = SDG}
+		owns_state = 146
+	}
+}
+achievementsaop_nga_ika = { 
+	AND = {
+		tag = NGA
+		
+		controls_state = 151
+		controls_state = 69
+		controls_state = 155
+		controls_state = 161
+		controls_state = 180
+		controls_state = 169
+		controls_state = 165
+		has_completed_focus = ngafocus_47
+	}
+}
+achievementsaop_tot_sin = { 
+	AND = {
+		original_tag = TOT
+		GNM = {is_puppet_of = TOT}
+		UTM = {is_puppet_of = TOT}
+		OR = {
+		IBA = {is_puppet_of = TOT}
+		HIT = {is_puppet_of = TOT}
+		}
+		SAI = {is_puppet_of = TOT}
+		TKO = {is_puppet_of = TOT}
+		KAN = {is_puppet_of = TOT}
+	}
+}
+
+achievementsaop_iba_owa = { 
+	AND = {
+		original_tag = IBA
+		has_equipment = {
+  	  		medium_tank_equipment> 700
+		}
+		has_war_with = TKO
+	}
+}
+
+achievementsaop_tko_san = { 
+	AND = {
+		tag = TKO
+		num_subjects > 26
+		NOT = { has_global_flag = form_gran_musasi_flag }
+	}
+}
+achievement_aop_kan_tko3 = { 
+	AND = {
+		original_tag = KAN
+		is_puppet = no
+		owns_state = 111
+		owns_state = 131
+	}
+}
+achievement_aop_siz_soukaen = { 
+	AND = {
+		original_tag = SIZ
+		is_puppet = no
+		owns_state = 157
+		has_army_manpower = {size> 800000}
+	}
+}
+
+achievement_aop_yms_touitu = { 
+	AND = {
+		original_tag = YMS
+		is_puppet = no
+		owns_state = 155
+		owns_state = 154
+		owns_state = 153
+		owns_state = 152
+		owns_state = 156
+		owns_state = 160
+		owns_state = 161
+		owns_state = 159
+		owns_state = 156
+		owns_state = 162
+		owns_state = 158
+		owns_state = 135
+		owns_state = 132
+		owns_state = 131
+		owns_state = 130
+		owns_state = 127
+		owns_state = 134
+		owns_state = 127
+		owns_state = 134
+		owns_state = 126
+		owns_state = 129
+		owns_state = 128
+		
+	}
+}
+
+achievement_gif_mino = { 
+	AND = {
+		original_tag = GIF
+		is_puppet = no
+		arms_factory> 65
+		is_major = yes
+		date < 1940.1.1
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+

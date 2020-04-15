@@ -1,0 +1,30 @@
+state={
+	id=34
+	name="Senboku" 
+	manpower = 252000
+
+	state_category = town
+	resources={
+		chromium=2
+		aluminium=5
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			 258 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2670 1113 325 127 410 2476 928 4267 114 2793 4080 258 2858 5734
+	}
+}

@@ -1,0 +1,37 @@
+state={
+	id=189
+	name="Kanazawa" 
+	manpower = 722897
+
+	state_category = metropolis
+	resources={
+		chromium=2
+		aluminium=2
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+		4963= {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			4963 15
+		}
+		victory_points = {
+			5654 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4963 4958 4993 4940 5654 5652 5660 4992 3858 5666 5674 5671
+	} 
+} 

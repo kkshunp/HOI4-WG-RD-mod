@@ -1,0 +1,24 @@
+state={
+	id=24
+	name="Higasidouri" 
+	manpower = 86476
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+ 
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4717 2673 4420 5413
+	}
+}

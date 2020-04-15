@@ -1,0 +1,37 @@
+
+state={
+	id=261
+	name="Mimasaka"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=30.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 0
+
+		}
+		victory_points = {
+#			2900 5 
+			3522 5 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		1756 1974 2063 2251 2440 2833 2900 3522 3887 6080 6081 6082 
+	}
+	manpower=170000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

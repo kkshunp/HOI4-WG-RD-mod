@@ -1,0 +1,35 @@
+state={
+	id=222
+	name="Hatusima" #‰“‡
+	manpower = 0
+
+	state_category = tiny_island
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+			air_base = 0
+			2154 = {
+				naval_base = 1
+			}
+		}
+
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	2154
+	}
+}

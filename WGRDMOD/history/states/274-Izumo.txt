@@ -1,0 +1,42 @@
+
+state={
+	id=274
+	name="Izumo"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			1532 20 
+		}
+#		victory_points = {
+#			2978 5 
+#		}
+#		victory_points = {
+#			3298 3 
+#		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		1532 2765 3165 3897 3974 4079 6244 6247 6251
+	}
+	manpower=286541
+	buildings_max_level_factor=1.000
+	state_category=town
+}

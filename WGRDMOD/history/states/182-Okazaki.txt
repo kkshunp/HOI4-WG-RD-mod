@@ -1,0 +1,30 @@
+state={
+	id=182
+	name="Okazaki" 
+	manpower = 684521
+
+	state_category = large_city
+	resources={
+		chromium=2
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+				
+		}
+		victory_points = {
+			 201 10
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	383 989 2397 4184 2870 672 6306 6389 6303
+	}
+}

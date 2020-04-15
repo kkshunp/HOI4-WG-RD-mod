@@ -1,0 +1,24 @@
+state={
+	id=36
+	name="Hiraka" 
+	manpower = 7430
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2561 573 610 3746 1043 651  3206 722 4113 381 5746 5745 5740
+	}
+}

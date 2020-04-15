@@ -1,0 +1,35 @@
+state={
+	id=1
+	name="Souya" 
+	manpower = 40000
+
+	state_category = city
+	resources={
+		tungsten=9
+		oil=10
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			fuel_silo = 1
+			5133 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			 5133 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4929 5060 4828 4705 3138 5133
+
+	}
+}

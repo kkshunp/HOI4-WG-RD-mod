@@ -1,0 +1,56 @@
+state={
+	id=383
+	name="Sakaikatuyama"
+	manpower =283240
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=10
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			3042 5
+		}
+		victory_points = {
+			2497 3
+		}
+		victory_points = {
+			5700 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3042 5725 2497 5711 5705
+	}
+}	                  
+			       
+		 
+		            
+			             
+				                      
+			 
+		 
+	 
+
+	           
+		                                                                                                                                                                                                                                                                                                
+	 
+ 

@@ -1,0 +1,34 @@
+state={
+	id=68
+	name="Oota" 
+	manpower = 340834
+
+	state_category = metropolis
+	resources={
+		chromium=8
+		aluminium=18
+		steel=50
+		tungsten=21
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory =  2
+		}
+		victory_points = {
+			5285 1 
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3025 4077 5341 2675 5285 5301
+	}
+}

@@ -1,0 +1,45 @@
+state={
+	id=335
+	name="Kunigami" 
+	manpower = 29500
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=10
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+ 				
+			air_base = 3
+					5138 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			 4844 3
+		}
+		victory_points = {
+			 4720 3
+		}
+		victory_points = {
+			 4739 2
+		}
+		victory_points = {
+			 5138 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4739 4286 4720 5213 3427 4886 4464 4439 4351 5102 5326 5138 4799
+	}
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=133
+	name="Simane"
+	value=6
+	states={
+	273 412 348
+	}
+}

@@ -1,0 +1,50 @@
+state={
+	id=72
+	name="Nikkou" 
+	manpower = 97456
+
+	state_category = town
+	resources={
+		steel=12
+		tungsten=16
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 2
+			5809 = {
+				bunker = 1
+			}
+			2921 = {
+				bunker = 1
+			}
+			1318 = {
+				bunker = 1
+			}
+			4264 = {
+				bunker = 1
+			}
+			4303 = {
+				bunker = 1
+			}
+			4304 = {
+				bunker = 1
+			}
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		victory_points = {
+			4264 10
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3150 3524 4264 4303 4304 2906 2503 2788 2446 1816 1188 4906 3685 4605 4052 3326 1318 2921 5809 
+	}
+}

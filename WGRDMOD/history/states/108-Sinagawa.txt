@@ -1,0 +1,25 @@
+state={
+	id=108
+	name="Sinagawa" 
+	manpower = 1695383
+
+	state_category = metropolis
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 7
+			arms_factory = 2
+			fuel_silo = 1
+			air_base = 9
+		}
+		victory_points = {
+			 2715 10
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2715 2439 4215 5912
+	}
+}

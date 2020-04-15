@@ -1,0 +1,25 @@
+state={
+	id=95
+	name="Isumi" 
+	manpower = 5205
+
+	state_category = large_town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex =4
+			dockyard = 1
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3747 19 15
+	}
+}

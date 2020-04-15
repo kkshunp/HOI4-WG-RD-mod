@@ -1,0 +1,30 @@
+state={
+	id=142
+	name="Hakone" 
+	manpower = 63455
+
+	state_category = city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+		4305 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			597 5
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	4305 3782 1217
+	}
+}

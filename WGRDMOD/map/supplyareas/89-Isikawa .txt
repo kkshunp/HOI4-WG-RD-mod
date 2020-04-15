@@ -1,0 +1,8 @@
+supply_area={
+	id=89
+	name="Isikawa"
+	value=8
+	states={
+		187 188 380
+	}
+}

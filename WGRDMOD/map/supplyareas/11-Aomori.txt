@@ -1,0 +1,8 @@
+supply_area={
+	id=11
+	name="Aomori"
+	value=8
+	states={
+		28 29
+	}
+}

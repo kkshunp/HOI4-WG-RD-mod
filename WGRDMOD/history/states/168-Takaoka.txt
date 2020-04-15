@@ -1,0 +1,38 @@
+
+state={
+	id=168
+	name="Takaoka"
+	resources={
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			 3755 1
+		}
+		victory_points = {
+			 5655 2
+		}
+		victory_points = {
+			 3537 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		3729 2519 4259 3262 3681 2488 3071 3537 3755 4787 3969 5651 5663 5658 5655
+	}
+	manpower=352867
+	state_category=town
+}

@@ -1,0 +1,68 @@
+state={
+	id=333
+	name="Kumage" 
+	manpower = 38520
+
+	state_category = small_island
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=40
+		rubber=31
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+			5222 = {
+				naval_base = 3
+			}
+			1018 = {
+				naval_base = 3
+			}
+			4491 = {
+				naval_base = 1
+			}
+			2641 = {
+				naval_base = 1
+			}
+			2141 = {
+				naval_base = 1
+			}
+			3941 = {
+				naval_base = 1
+			}
+			3421 = {
+				naval_base = 1
+			}
+			1271 = {
+				naval_base = 2
+			}
+			3800 = {
+				naval_base = 1
+			}
+			4501 = {
+				naval_base = 1
+			}
+			263 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			 1542 3 
+		}
+		victory_points = {
+			 1272 3 
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2657 5222 1542 799 2354 2625 3550 2775 4491 2641 2141 3691 3916 1272 3009 1046 1276 2359 3941 3800 3764 3421 4501 263
+	}
+}

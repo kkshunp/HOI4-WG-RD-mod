@@ -1,0 +1,38 @@
+state={
+	id=282
+	name="Aki" 
+	manpower = 96543
+
+	state_category = rural
+	resources={
+		chromium=85
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+				
+		} 
+		victory_points = {
+			 2504 5
+		}
+		victory_points = {
+			 475 3
+		}
+		victory_points = {
+			 4308 7
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	475 4885 1480 2457 2504 1982 2203 2393 4578 1593  1788 2180 4416 4308 2744 5538 5533 5611 5542 5551 6121 6122 6130 4749
+	}
+}

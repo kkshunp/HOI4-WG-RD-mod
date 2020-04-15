@@ -1,0 +1,29 @@
+state={
+	id=133
+	name="Kaminia" 
+	manpower = 241013
+
+	state_category = rural
+	resources={
+		steel=6
+		tungsten=4
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2 
+		}
+		add_core_of = JP1
+		victory_points = {
+			2706 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	2706 3650 2500 4574 3223 4266 4054 5946 2638 3182 4415 2226 1727 3048
+	}
+}

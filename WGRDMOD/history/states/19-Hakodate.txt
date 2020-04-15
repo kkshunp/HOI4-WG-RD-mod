@@ -1,0 +1,32 @@
+
+state={
+	id=19
+	name="Hakodate"
+	manpower = 325300
+	state_category = metropolis
+	resources={
+		steel=490
+		tungsten=385
+	}
+	history={
+		owner = JP1
+		add_core_of = JP1
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			fuel_silo = 2
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		victory_points = {
+			3860 30
+		}
+
+	}
+
+	provinces={
+	2658 3104 4125 3235 3860 4681	
+	}
+}

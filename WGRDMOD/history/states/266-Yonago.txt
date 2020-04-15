@@ -1,0 +1,41 @@
+state={
+	id=266
+	name="Yonago" 
+	manpower = 196000
+
+	state_category = rural
+	resources={
+		chromium=60
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 0
+		}
+		victory_points = {
+			 5111 10
+		}
+		victory_points = {
+			 3807 5
+		}
+#		victory_points = {
+#			 4656 2
+#		}
+#		victory_points = {
+#			 4141 2
+#		}
+		add_core_of = JP1
+	}
+
+	provinces={
+		5111 6223 6221 6222 6089 6218 6220 6224 4640 6219
+	}
+}

@@ -1,0 +1,32 @@
+state={
+	id=81
+	name="Hitati" 
+	manpower = 412657
+
+	state_category = large_city
+	resources={
+		aluminium=24
+		steel=48
+		tungsten=60
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 3
+		}
+		victory_points = {
+			1312 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2699 3106 3770 4237 2361 3086 3385 1669 3286 2644 4817 4129 1312 3285 2605 3534 1919 3909 3909
+	}
+}

@@ -1,0 +1,40 @@
+state={
+	id=381
+	name="Herazima"
+	manpower =71
+
+	state_category = tiny_island
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			5683 = {
+				naval_base = 1
+			}
+		}
+
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5683
+	}
+}	                  
+			       
+		 
+		            
+			             
+				                      
+			 
+		 
+	 
+
+	           
+		                                                                                                                                                                                                                                                                                                
+	 
+ 

@@ -1,0 +1,32 @@
+state={
+	id=244
+	name="Harima" 
+	manpower = 576541
+
+	state_category = city
+	resources={
+		chromium=11
+		aluminium=192
+		steel=0
+		tungsten=12
+		rubber=12
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+				
+		}
+		victory_points = {
+			 5090 8
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5123 4549 4228 5090 4013 4710 4096 3877 4176 4106 4891
+	}
+}

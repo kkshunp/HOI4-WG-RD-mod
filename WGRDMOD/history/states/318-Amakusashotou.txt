@@ -1,0 +1,38 @@
+state={
+	id=318
+	name="Amakushashotou" 
+	manpower = 91500
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=35
+		oil=75
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			5052 = {
+				naval_base = 1
+			}
+			2862 = {
+				naval_base = 1
+			}
+				
+		}
+		victory_points = {
+			 5495 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+		4826 5052 3738 4333 4973 5495 5464 5274 4346 2862 3390 5488 5455 4314
+	}
+}

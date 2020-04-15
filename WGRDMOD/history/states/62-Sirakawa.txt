@@ -1,0 +1,26 @@
+state={
+	id=62
+	name="Sirakawa" 
+	manpower = 242889
+
+	state_category =  rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			 3462 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2248 3462 3922 2879 2831 4689 5791 1693 3535 4167 4475 2755 3535 3243 4860 3815 4382 4860 5797 5798
+	}
+}

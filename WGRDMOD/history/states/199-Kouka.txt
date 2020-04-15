@@ -1,0 +1,39 @@
+state={
+	id=199
+	name="Kouka" 
+	manpower = 245310
+
+	state_category = town
+	resources={
+		chromium=29
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=1
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 2939 8
+		}
+		victory_points = {
+			 5519 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1	
+	}
+
+	provinces={
+	3735 3367 2939 2847 3705 2365 3924 5519 6021 6020 4407 2780 6022 6023 6029 6028 6027 606 137 3504 1399
+	}
+}

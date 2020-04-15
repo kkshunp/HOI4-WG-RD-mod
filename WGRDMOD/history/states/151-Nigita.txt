@@ -1,0 +1,49 @@
+state={
+	id=151
+	name="niigata" 
+	manpower = 1273465
+
+	state_category = metropolis
+	resources={
+		oil=  9
+	}
+	history={
+		owner =JP1 
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5 
+			arms_factory = 3
+			fuel_silo = 1
+			2656 = {
+				naval_base = 6
+			}
+		air_base = 2
+		}
+		victory_points = {
+			2656 20
+		}
+		victory_points = {
+			2656 2
+		}
+		victory_points = {
+			2735 2
+		}
+		victory_points = {
+			4324 2
+		}
+		victory_points = {
+			5344 1
+		}
+		victory_points = {
+			2426 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={ 5251 5363 3120 5328 3671 5350 4533 3317 5359 1484 2213 5230 2656 5337 5208 2734 3337 2840 4822 3690 4139 2426 4324 5009 2735 3937 4159 5229 5344 4082 4315 4538 2309 5164 5763 5270 5762 1635 5353
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=23
+	name="Mutu" 
+	manpower = 250000
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			fuel_silo = 1
+		}
+		victory_points = {
+			 5500 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5423 5417 3793 5500 3300
+	}
+}

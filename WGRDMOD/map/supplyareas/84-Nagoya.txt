@@ -1,0 +1,8 @@
+supply_area={
+	id=84
+	name="Nagoya"
+	value=12
+	states={
+		180
+	}
+}

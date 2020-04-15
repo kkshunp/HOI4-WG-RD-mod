@@ -1,0 +1,33 @@
+scripted_gui = {
+	TNO_demo_opening_screen = {
+		context_type = player_context
+		parent_window_token = top_bar
+		window_name = "TNO_demo_opening_screen_button"
+
+		visible = {
+			always = yes
+		}
+
+		effects = {
+			topbar_demo_button_click = {
+				set_country_flag = TNO_demo_opening_screen_show
+			}
+		}
+	}
+	
+	TNO_demo_opening_button = {
+		context_type = player_context
+		parent_window_token = top_bar
+		window_name = "TNO_demo_opening_screen_main"
+
+		visible = {
+			has_country_flag = TNO_demo_opening_screen_show
+		}
+
+		effects = {
+			TNO_opening_screen_button_click = {
+				clr_country_flag = TNO_demo_opening_screen_show
+			}
+		}
+	}
+}

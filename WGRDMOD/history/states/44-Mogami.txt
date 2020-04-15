@@ -1,0 +1,25 @@
+state={
+	id=44
+	name="Mogami" 
+	manpower = 96000
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4336 4728 2032 2700 4318 4903 1689 3723 1717 2215 4977 4671 3171 4352 3491 3981 4537 4467 2432 3304 4642 1271 5755 5756 5757 3528 1712 5759 5753 3592 5751 39 5750 46
+	}
+}

@@ -1,0 +1,30 @@
+state={
+	id=350
+	name="SinnyuukinnsiRyouiki" 
+	manpower = 0
+	
+	state_category = wasteland
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			 1 1 
+		}
+		add_core_of = ZZZ
+	}
+
+	provinces={
+	264 531 3188 1313 1063 1716 596 1306 1108 187 926 2995 1288 526 1120 2822 1956 578 2020 1701 1695 2111 
+	}
+}

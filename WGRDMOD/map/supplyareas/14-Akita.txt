@@ -1,0 +1,8 @@
+supply_area={
+	id=14
+	name="akita"
+	value=9
+	states={
+		33 34
+	}
+}

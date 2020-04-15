@@ -1,0 +1,23 @@
+state={
+	id=111
+	name="Tiyoda" 
+	manpower = 59441
+
+	state_category = city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 5
+		}
+		victory_points = {
+			 3538 45
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3538
+	}
+}

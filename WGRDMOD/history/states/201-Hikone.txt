@@ -1,0 +1,37 @@
+state={
+	id=201
+	name="Hikone" 
+	manpower = 341500
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+				
+		}
+		
+		victory_points = {
+			 3457 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3457 3143 4235 3413 3906 5398
+	}
+}

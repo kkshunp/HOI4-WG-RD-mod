@@ -1,0 +1,45 @@
+
+state={
+	id=324
+	name="Nisimorogata"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			1294 3 
+		}
+#		victory_points = {
+#			2322 3 
+#		}
+		victory_points = {
+			2016 5 
+		}
+		victory_points = {
+			285 5 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		135 224 285 326 369 653 807 1004 1273 1294 2016 2669 2838 3255 3612 1241 6193 6199 3903 6198 6197
+	}
+	manpower=96000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

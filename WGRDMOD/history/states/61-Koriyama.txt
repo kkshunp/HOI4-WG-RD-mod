@@ -1,0 +1,27 @@
+state={
+	id=61
+	name="Kooriyama" 
+	manpower = 537249
+
+	state_category = city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		victory_points = {
+			 3890 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2916 3264 2612 1546 3090 4071 3890 4220 3342 3040 1575 1875 2846 2701 3198 1698 2702 1941 2090
+	}
+}

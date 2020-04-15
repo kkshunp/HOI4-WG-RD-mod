@@ -1,0 +1,38 @@
+
+state={
+	id=421
+	name="Kurashiki"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 3
+		}
+		victory_points = {
+			5042 5 
+		}
+		victory_points = {
+			4587 3 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3189 4161 4587 5042 
+	}
+	manpower=620828
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

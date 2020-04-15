@@ -1,0 +1,8 @@
+supply_area={
+	id=80
+	name="Takaoka"
+	value=5
+	states={
+		167 168
+	}
+}

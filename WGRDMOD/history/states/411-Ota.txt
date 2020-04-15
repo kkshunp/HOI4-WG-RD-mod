@@ -1,0 +1,39 @@
+
+state={
+	id=411
+	name="Ota"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			3717 3 
+		}
+		victory_points = {
+			4322 2 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2075 2444 2756 3095 3218 3717 4137 4185 4243 4246 4322 4663 3333 4283 3571 4132  6243 6242 6241
+	}
+	manpower=51500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

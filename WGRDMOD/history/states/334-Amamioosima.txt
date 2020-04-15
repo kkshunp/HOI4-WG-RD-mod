@@ -1,0 +1,50 @@
+state={
+	id=334
+	name="Amamioosima" 
+	manpower = 100000
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=15
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			fuel_silo = 1
+			air_base = 3
+ 				
+			5091 = {
+				naval_base = 4
+			}
+			5051 = {
+				naval_base = 1
+			}
+			3272 = {
+				naval_base = 1
+			}
+			5362 = {
+				naval_base = 2
+			}
+			5010 = {
+				naval_base = 1
+			}
+					
+		}
+		victory_points = {
+			 5091 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4986 5362 5015 3451 3507 3154 4613 4027 3781 2179 4421 4191 3513 3597 4423 5121 4618 5091 5068 1485 4366 3272 5051 4500
+	}
+}

@@ -1,0 +1,29 @@
+state={
+	id=47
+	name="Kurihara" 
+	manpower = 89000
+
+	state_category = town
+	resources={
+		oil=32
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =1  
+		}
+		victory_points = {
+			 54 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	66 40 49 4268 228 54 2053 2161 29 2402 586 5743 5742 5742 5743
+}
+}

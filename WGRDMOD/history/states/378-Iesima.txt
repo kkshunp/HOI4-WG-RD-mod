@@ -1,0 +1,43 @@
+state={
+	id=378
+	name="Iesimashotou" 
+	manpower =2300
+
+	state_category = tiny_island
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			4752 = {
+				naval_base = 2
+			}
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+		4752
+	}
+}	                  
+			       
+		 
+		            
+			             
+				                      
+			 
+		 
+	 
+
+	           
+		                                                                                                                                                                                                                                                                                                
+	 
+ 

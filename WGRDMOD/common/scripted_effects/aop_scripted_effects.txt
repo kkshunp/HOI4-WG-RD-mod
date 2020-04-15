@@ -1,0 +1,280 @@
+hki_tairitu_effect_U = {
+	if = {
+		 limit = {
+		 	OR = {
+		 		has_idea = HKI_nanboku_tairitu_7
+		 		has_idea = HKI_nanboku_tairitu_6
+		 		has_idea = HKI_nanboku_tairitu_5
+		 		has_idea = HKI_nanboku_tairitu_4
+		 	}
+		 }
+		hki_tairitu_effect_N = yes
+	}
+	if = {
+		 limit = {
+		 	OR = {
+		 		has_idea = HKI_nanboku_tairitu_3
+		 		has_idea = HKI_nanboku_tairitu_2
+		 		has_idea = HKI_nanboku_tairitu_1
+		 	}
+		 }
+		hki_tairitu_effect_S = yes
+	}
+}
+hki_tairitu_effect_K = {
+	if = {
+		 limit = {
+		 	OR = {
+		 		has_idea = HKI_nanboku_tairitu_7
+		 		has_idea = HKI_nanboku_tairitu_6
+		 		has_idea = HKI_nanboku_tairitu_5
+		 	}
+		 }
+		hki_tairitu_effect_S = yes
+	}
+	if = {
+		 limit = {
+		 	OR = {
+		 		has_idea = HKI_nanboku_tairitu_3
+		 		has_idea = HKI_nanboku_tairitu_2
+		 		has_idea = HKI_nanboku_tairitu_1
+		 	}
+		 }
+		hki_tairitu_effect_N = yes
+	}
+}
+hki_tairitu_effect_N = {
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_7}
+		 add_stability = -0.05
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_6}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_6
+			add_idea = HKI_nanboku_tairitu_7
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_5}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_5
+			add_idea = HKI_nanboku_tairitu_6
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_4}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_4
+			add_idea = HKI_nanboku_tairitu_5
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_3}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_3
+			add_idea = HKI_nanboku_tairitu_4
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_2}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_2
+			add_idea = HKI_nanboku_tairitu_3
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_1}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_1
+			add_idea = HKI_nanboku_tairitu_2
+		}
+	}
+}
+hki_tairitu_effect_S = {
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_1}
+		 add_stability = -0.05
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_2}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_2
+			add_idea = HKI_nanboku_tairitu_1
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_3}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_3
+			add_idea = HKI_nanboku_tairitu_2
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_4}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_4
+			add_idea = HKI_nanboku_tairitu_3
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_5}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_5
+			add_idea = HKI_nanboku_tairitu_4
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_6}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_6
+			add_idea = HKI_nanboku_tairitu_5
+		}
+	}
+	if = {
+		 limit = {has_idea = HKI_nanboku_tairitu_7}
+		 swap_ideas = {
+			remove_idea = HKI_nanboku_tairitu_7
+			add_idea = HKI_nanboku_tairitu_6
+		}
+	}
+}
+#ROOT‚µ‚½‘‚Æ”’†iKR‚©‚ç‚Ü‚é‚Ï‚­‚èj
+white_peace_with_ROOT = {
+	hidden_effect = {
+		#í‘ˆ’†‚©Šm”F
+		if = {
+			limit = { NOT = { has_war_with = ROOT } }
+			break = yes
+		}
+	
+		#w‰c‚É‘®‚µ‚Ä‚¢‚é‚©Šm”F
+		if = {
+			limit = {
+				is_in_faction = no
+				any_country = {
+					is_in_faction = no
+					has_war_together_with = PREV
+					has_war_with = ROOT
+				}
+			}
+			set_country_flag = AOM_temp_faction
+			save_event_target_as = white_peace_defender
+			create_faction = "Temporary Defender Faction"
+			every_country = {
+				limit = {
+					is_in_faction = no
+					has_war_together_with = PREV
+					has_war_with = ROOT
+				}
+				event_target:white_peace_defender = { add_to_faction = PREV }
+			}
+		}
+		
+		# –¡•û‚ªw‰c‚É(—ª)
+		if = {
+			limit = {
+				ROOT = { is_in_faction = no }
+				any_country = {
+					is_in_faction = no
+					has_war_together_with = ROOT
+					has_war_with = PREV
+				}
+			}
+			ROOT = {
+				set_country_flag = KR_temp_faction
+				create_faction = "Temporary Attacker Faction"
+			}
+			every_country = {
+				limit = {
+					is_in_faction = no
+					has_war_together_with = ROOT
+					has_war_with = PREV
+				}
+				ROOT = { add_to_faction = PREV }
+			}
+		}
+	}
+	# u˜aˆ—
+	white_peace = ROOT
+	
+	# Then dismantle factions if necessary
+	hidden_effect = {
+		if = {
+			limit = { has_country_flag = AOM_temp_faction }
+			clr_country_flag = AOM_temp_faction
+			dismantle_faction = yes
+		}
+		ROOT = {
+			if = {
+				limit = { has_country_flag = AOM_temp_faction }
+				clr_country_flag = AOM_temp_faction
+				dismantle_faction = yes
+			}
+		}
+	}
+}
+Linear_ukai_route_effect = {
+set_global_flag = Linear_ukai_route_flag
+NGA = {country_event = { days = 5 id = linear.23 }}
+YMS = {country_event = { days = 5 id = linear.23 }}
+AIT = {country_event = { days = 5 id = linear.23 }}
+	every_country={
+		limit = {
+				NOT = {tag = NGA}
+				NOT = {tag = YMS}
+				NOT = {tag = AIT}
+			has_country_flag = Linear_news_flag
+		}
+		country_event = { days = 5 id = linear.23 }
+	}
+}
+
+Linear_arupusu_route_effect = {
+set_global_flag = Linear_arupusu_route_flag
+NGA = {country_event = { days = 5 id = linear.22 }}
+YMS = {country_event = { days = 5 id = linear.22 }}
+AIT = {country_event = { days = 5 id = linear.22 }}
+	every_country={
+		limit = {
+				NOT = {tag = NGA}
+				NOT = {tag = YMS}
+				NOT = {tag = AIT}
+			has_country_flag = Linear_news_flag
+		}
+		country_event = { days = 5 id = linear.22 }
+	}
+}
+Linear_nra_route_effect = {
+set_global_flag = Linear_nra_route_flag
+NRA = {country_event = { days = 5 id = linear.66 }}
+KYT = {country_event = { days = 5 id = linear.66 }}
+AIT = {country_event = { days = 5 id = linear.66 }}
+	every_country={
+		limit = {
+				NOT = {tag = KYT}
+				NOT = {tag = NTA}
+				NOT = {tag = AIT}
+			has_country_flag = Linear_news_flag
+		}
+		country_event = { days = 5 id = linear.66 }
+	}
+}
+Linear_kyoto_route_effect = {
+set_global_flag = Linear_kyoto_route_flag
+NRA = {remove_ideas = linear_idea}
+KYT = {add_ideas = linear_idea}
+SIG = {add_ideas = linear_idea}
+NRA = {country_event = { days = 5 id = linear.67 }}
+KYT = {country_event = { days = 5 id = linear.67 }}
+AIT = {country_event = { days = 5 id = linear.67 }}
+	every_country={
+		limit = {
+				NOT = {tag = KYT}
+				NOT = {tag = NTA}
+				NOT = {tag = AIT}
+			has_country_flag = Linear_news_flag
+		}
+		country_event = { days = 5 id = linear.67 }
+	}
+}

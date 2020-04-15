@@ -1,0 +1,9 @@
+
+supply_area={
+	id=58
+	name="Matumoto"
+	value=5
+	states={
+	131 133
+	}
+}

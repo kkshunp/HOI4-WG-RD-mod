@@ -1,0 +1,38 @@
+state={
+	id=289
+	name="Uwazima" 
+	manpower = 52501
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=26
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 2
+			4875 = {
+				naval_base = 2
+			}
+		} 
+		victory_points = {
+			 4693 5
+		}
+		victory_points = {
+			 5167 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4716 1149 4693 5167 4000 2695 4503 4875 4105 4753 5598 5601 5600 5597 6151 6152
+	}
+}

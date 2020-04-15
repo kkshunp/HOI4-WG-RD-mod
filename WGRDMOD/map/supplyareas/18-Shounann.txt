@@ -1,0 +1,8 @@
+supply_area={
+	id=18
+	name="Shounann"
+	value=6
+	states={
+		43 44
+	}
+}

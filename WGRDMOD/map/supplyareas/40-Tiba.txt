@@ -1,0 +1,8 @@
+supply_area={
+	id=40
+	name="Tiba"
+	value=13
+	states={
+		91
+	}
+}

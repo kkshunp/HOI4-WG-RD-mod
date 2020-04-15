@@ -1,0 +1,8 @@
+supply_area={
+	id=64
+	name="Yokohama"
+	value=6
+	states={
+		141 142 143 144 139
+	}
+}

@@ -1,0 +1,33 @@
+state={
+	id=183
+	name="Toyohasi" 
+	manpower = 754120
+
+	state_category = metropolis
+	resources={
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+				
+		}
+		victory_points = {
+			 2158 10
+		}
+		victory_points = {
+			 2435 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3959 1269 1562 2082 3100 802 2158 717 1266 6390 6388 6304 6301
+	}
+}

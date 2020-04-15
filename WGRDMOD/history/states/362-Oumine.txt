@@ -1,0 +1,32 @@
+state={
+	id=362
+	name="Oumine" 
+	manpower = 31000
+
+	state_category = wasteland
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+
+		}
+
+		add_core_of = JP1
+
+	}
+
+	provinces= {
+	3725 5152 823 4896 2282 4584 2703 3518 4089 6045
+	}
+}

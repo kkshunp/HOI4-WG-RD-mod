@@ -1,0 +1,31 @@
+state={
+	id=14
+	name="Otaru" 
+	manpower = 331900
+
+	state_category = large_city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			fuel_silo = 1
+			3809 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 2551 15
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4830 3809 4428 2551 1773 1946
+	}
+}

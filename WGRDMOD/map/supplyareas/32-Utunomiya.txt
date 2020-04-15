@@ -1,0 +1,8 @@
+supply_area={
+	id=32
+	name="Utunomiya"
+	value=10
+	states={
+		76
+	}
+}

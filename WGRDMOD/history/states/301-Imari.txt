@@ -1,0 +1,38 @@
+state={
+	id=301
+	name="Imari" 
+	manpower = 120000
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=84
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+				
+			5159 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			 5159 10
+		}
+		victory_points = {
+			 5396 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5396 4947 5097 5215 4813 5502 4814 5159 3834 6168
+	}
+}

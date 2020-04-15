@@ -1,0 +1,33 @@
+state={
+	id=180
+	name="Nagoyo" 
+	manpower = 2561000
+
+	state_category = megalopolis
+	resources={
+		oil=10
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 12
+			arms_factory = 6
+			fuel_silo = 1
+				
+			air_base = 4
+		}
+		victory_points = {
+			 542 30
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1955 542 645 2958 1394 1710 549 261 6325 6330 6331 6335 6336 6339 6345 6343 6349
+	}
+}

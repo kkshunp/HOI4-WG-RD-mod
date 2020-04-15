@@ -1,0 +1,30 @@
+state={
+	id=103
+	name="Hannou" 
+	manpower = 735420
+
+	state_category = town
+	resources={
+		chromium=16
+		tungsten=6
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+		victory_points = {
+			3327 3
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5866 4152 3476 5868 3327 5867 4543
+	}
+}

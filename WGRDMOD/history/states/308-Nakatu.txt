@@ -1,0 +1,39 @@
+
+state={
+	id=308
+	name="Nakatu"
+	resources={
+		chromium=0.000
+		aluminium=55.000
+		steel=12.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 2
+			dockyard = 0
+
+		}
+		victory_points = {
+			5212 5 
+		}
+#		victory_points = {
+#			4493 3 
+#		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3797 4432 4594 4595 4777 4968 5212 5432 5489 
+	}
+	manpower=83170
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

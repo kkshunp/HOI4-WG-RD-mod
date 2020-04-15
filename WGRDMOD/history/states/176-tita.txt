@@ -1,0 +1,37 @@
+state={
+	id=176
+	name="tita" 
+	manpower = 666200
+
+	state_category =large_town
+	resources={
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 3
+			arms_factory = 0
+				
+			433 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			 4553 5
+		}
+		victory_points = {
+			 1767 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1767 2526 433 4553 101 2270 790 1862 6329 6327
+	}
+}

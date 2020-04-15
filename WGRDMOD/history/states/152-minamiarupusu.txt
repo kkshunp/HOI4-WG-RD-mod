@@ -1,0 +1,38 @@
+state={
+	id=152
+	name = "Minamiarupusu" 
+	manpower = 257801
+
+	state_category = town
+	resources={
+		chromium= 0
+		aluminium= 0
+		steel= 0
+		tungsten= 0
+		rubber= 0
+		oil=  0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1 
+		}
+		victory_points = {
+			 2848 5
+		}
+		victory_points = {
+			 4837 4
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={ 
+		5947 1533 3992 2848 3310 3823 5944 3829 3527 5930 2375 1838 5939 5941 5938 5940 5936 5937 5935 4837
+	}
+}

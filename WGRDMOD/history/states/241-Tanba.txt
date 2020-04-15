@@ -1,0 +1,38 @@
+state={
+	id=241
+	name="Tanba" 
+	manpower = 575541
+
+	state_category = rural
+	resources={
+		chromium=5
+		aluminium=4
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 4848 2
+		}
+		victory_points = {
+			 2106 5
+		}
+		victory_points = {
+			 1653 15
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4848 4288 4586 4617
+	}
+}

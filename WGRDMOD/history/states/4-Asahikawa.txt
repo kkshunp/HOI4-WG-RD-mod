@@ -1,0 +1,27 @@
+state={
+	id=4
+	name="Asahikawa" 
+	manpower = 222300
+
+	state_category = large_city
+	resources={
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+		}
+		victory_points = {
+			 2913 30
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4334 2913 4427 3194 2677
+	}
+}

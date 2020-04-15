@@ -1,0 +1,30 @@
+state={
+	id=15
+	name="Touya" 
+	manpower =  37000
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			 4495 10
+		}
+		victory_points = {
+			 2367 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2164 1491 2720 2367 4495 1214 1871
+	}
+}

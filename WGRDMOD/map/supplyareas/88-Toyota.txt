@@ -1,0 +1,8 @@
+supply_area={
+	id=88
+	name="Toyota"
+	value=9
+	states={
+		184 185 182
+	}
+}

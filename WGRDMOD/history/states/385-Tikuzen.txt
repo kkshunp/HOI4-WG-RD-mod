@@ -1,0 +1,42 @@
+
+state={
+	id=385
+	name="Tikuzen"
+	resources={
+		chromium=0.000
+		aluminium=12.000
+		steel=35.000
+		tungsten=5.000
+		rubber=10.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			5518 3
+		}
+		victory_points = {
+			3498 5
+		}
+		victory_points = {
+			4833 1
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		2920 3498 3631 4340 4510 4791 4833 4841 5239 5281 5514 5518 
+	}
+	manpower=416560
+	buildings_max_level_factor=1.000
+	state_category=town
+}

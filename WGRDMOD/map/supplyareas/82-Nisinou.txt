@@ -1,0 +1,8 @@
+supply_area={
+	id=82
+	name="Nisinoi"
+	value=6
+	states={
+		172 171 170
+	}
+}

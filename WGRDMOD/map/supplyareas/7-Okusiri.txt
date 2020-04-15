@@ -1,0 +1,8 @@
+supply_area={
+	id=7
+	name="Okusiri"
+	value=1
+	states={
+		20
+	}
+}

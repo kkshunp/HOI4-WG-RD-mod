@@ -1,0 +1,35 @@
+state={
+	id=345
+	name="Iriomotezima" 
+	manpower = 3850
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=54
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+ 				
+			4180 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 4111 8 
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1954 3241 3345 2993 4180 1579 2844 2989 2339 4111 2174 2819 4133 4477 2571 2234 1592 3606 2472 2067
+	}
+}

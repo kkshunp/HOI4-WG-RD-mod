@@ -1,0 +1,185 @@
+scripted_diplomatic_actions = {
+	aop_navy_transfer = {
+		send_description = aop_navy_transfer_send
+		receive_description = aop_navy_transfer_receive
+		allowed = {
+			always = yes
+		}
+		visible = {
+			always = yes
+		}
+		selectable = {
+			ROOT = {any_owned_state = {is_coastal = yes}}
+		}
+		can_be_accepted = {
+			always = yes
+		}
+		on_sent_effect = {
+			ROOT = {
+				country_event = { days = 90 id = Gevent.38 }
+				set_country_flag = aop_navy_transfer_ai
+			}
+		}
+		cost = 50
+		icon = 1
+		complete_effect = {
+			transfer_navy = {
+				target = ROOT
+			}
+		}
+		ai_desire = {
+			base = -1
+			modifier = {
+				ROOT = {NOT ={has_country_flag = aop_navy_transfer_ai}}
+				is_puppet_of = ROOT
+				num_of_factories < 10
+				OR = {
+					has_navy_size = {
+						size > 1
+						type = capital_ship
+					}
+					has_navy_size = {
+						size > 10
+						type = submarine
+					}
+					has_navy_size = {
+						size > 5
+						type = screen_ship
+						}
+					has_navy_size = {
+						size > 1
+						type = carrier
+					}
+				}
+				add = 1000
+			}
+		}
+		ai_acceptance = {
+			kihon = {
+				base = -100
+			}
+			aop_navy_transfer_opinion = {
+				base = 0
+				modifier = {
+					add = 5
+					has_opinion = {
+						target = ROOT
+						value > 0
+					}
+				}
+				modifier = {
+					add = 5
+					has_opinion = {
+						target = ROOT
+						value > 25
+					}
+				}
+				modifier = {
+					add = 5
+					has_opinion = {
+						target = ROOT
+						value > 50
+					}
+				}
+				modifier = {
+					add = 5
+					has_opinion = {
+						target = ROOT
+						value > 75
+					}
+				}
+				modifier = {
+					add = 5
+					has_opinion = {
+						target = ROOT
+						value > 99
+					}
+				}
+				modifier = {
+					add = -5
+					has_opinion = {
+						target = ROOT
+						value < 0
+					}
+				}
+				modifier = {
+					add = -5
+					has_opinion = {
+						target = ROOT
+						value < 25
+					}
+				}
+				modifier = {
+					add = -5
+					has_opinion = {
+						target = ROOT
+						value < 50
+					}
+				}
+				modifier = {
+					add = -5
+					has_opinion = {
+						target = ROOT
+						value < 75
+					}
+				}
+				modifier = {
+					add = -5
+					has_opinion = {
+						target = ROOT
+						value < 100
+					}
+				}
+			}
+			aop_navy_transfer_puppet = {
+				base = 0
+				modifier = {
+					add = 55
+					is_puppet_of = ROOT
+				}
+				modifier = {
+					add = -5
+					is_puppet = no
+				}
+			}
+			aop_navy_transfer_nairikukoku = {
+				base = 0
+				modifier = {
+					add = 50
+					all_owned_state = {is_coastal = no}
+				}
+			}
+			aop_navy_transfer_zinei = {
+				base = 0
+				modifier = {
+					add = 5
+					is_in_faction_with = ROOT
+				}
+				modifier = {
+					add = 5
+					is_in_faction_with = ROOT
+					ROOR = {is_faction_leader = yes}
+				}
+				modifier = {
+					add = -10
+					is_major = yes
+				}
+				modifier = {
+					add = -500
+					has_war_with = ROOT
+				}
+			}
+			aop_navy_transfer_kokuryoku = {
+				base = 0
+				modifier = {
+					add = 25
+					num_of_naval_factories < 1
+				}
+				modifier = {
+					add = 25
+					all_owned_state = {state_population < 200000}
+				}
+			}
+		}
+	}
+}

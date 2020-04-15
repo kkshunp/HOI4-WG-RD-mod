@@ -1,0 +1,8 @@
+supply_area={
+	id=42
+	name="Bousou"
+	value=6
+	states={
+	90 93 95 96 94
+	}
+}

@@ -1,0 +1,9 @@
+continents = {
+	Touhokuhokkaiodu
+	Kantou
+	Tyuubu
+	Kansai
+	Tyugoku
+	Sikoku
+	Kyuushu
+}

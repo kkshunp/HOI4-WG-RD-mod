@@ -1,0 +1,30 @@
+state={
+	id=41
+	name="Miyako" 
+	manpower = 250000
+
+	state_category = city
+	resources={
+		rubber=16
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex =  1
+			fuel_silo = 1
+		}
+		victory_points = {
+			 1522 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	 4768 1719 945 3990 2364 1547 4047 2386 1020 4767 1522 1783 1283 2760 904 4240 1897 593 3520 3497 1124 1419 1637
+	}
+}

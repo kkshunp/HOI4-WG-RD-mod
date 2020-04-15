@@ -1,0 +1,32 @@
+state={
+	id=55
+	name="Hukusima" 
+	manpower = 467601
+
+	state_category = city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 5
+		}
+		victory_points = {
+			 3156 30
+		}
+		victory_points = {
+			 4499 10
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3536 3473 4086 1998 3835 3656 2645 3383 2060 3156 4499 1545 2119 2117 2409 4217 3144 4090 2424 5764 5774
+	}
+}

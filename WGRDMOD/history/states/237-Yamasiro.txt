@@ -1,0 +1,36 @@
+state={
+	id=237
+	name="Yamasiro" 
+	manpower = 436541
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=4
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =3
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 2631 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	 3132 6033 2631 3174 2167 2438 3814 6031 6034
+	}
+}

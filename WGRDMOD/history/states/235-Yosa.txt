@@ -1,0 +1,35 @@
+state={
+	id=235
+	name="Yosa" 
+	manpower = 121010
+	#state_category = large_city
+	state_category = city
+	resources={
+		chromium=23
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=34
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =0
+			fuel_silo = 1
+			air_base = 2
+			arms_factory = 3
+
+				
+		}
+		victory_points = {
+			 2272 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	 3064 367 2272 1599 161 1631 1467
+	}
+}

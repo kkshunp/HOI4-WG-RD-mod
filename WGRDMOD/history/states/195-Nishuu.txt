@@ -1,0 +1,48 @@
+state={
+	id=195
+	name="Nishuu" 
+	manpower = 226100
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 3583 1
+		}
+		victory_points = {
+			 3583 1
+		}
+		victory_points = {
+			 3022 2
+		}
+		victory_points = {
+			 5708 7
+		}
+		victory_points = {
+			 5722 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5722 3022 5712 2593 3200 5713 2337 3420 5704 5708 3583 3356 5719 3115 5730 6012 6014
+	}
+}

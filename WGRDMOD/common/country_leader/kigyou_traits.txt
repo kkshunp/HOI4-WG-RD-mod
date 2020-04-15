@@ -1,0 +1,83 @@
+leader_traits = {
+
+##金融系##
+#中央銀行
+tyuuou_ginko = {
+consumer_goods_factor=-0.1
+	}
+#普通銀行
+hutuu_ginko = {
+consumer_goods_factor=-0.025
+	}
+#普通銀行
+hutuu_ginko = {
+consumer_goods_factor=-0.025
+	}
+#保険・証券会社
+hokenn_shoukenn = {
+consumer_goods_factor=-0.02
+	}
+#信用金庫
+sinyou_kinko = {
+consumer_goods_factor=-0.015
+	}
+#消費者金融
+shouhisha_kinyu = {
+consumer_goods_factor=-0.01
+	}	
+	
+##鉄道系##
+#旧国営鉄道
+koku_tetu = {
+production_speed_infrastructure_factor=0.1
+	}
+#大手私鉄
+oote_sitetu = {
+production_speed_infrastructure_factor=0.05
+	}
+#地方民鉄
+tihou_mintetu = {
+production_speed_infrastructure_factor=0.025
+	}
+#第三種鉄道
+daisanshu_tetudou = {
+production_speed_infrastructure_factor=0.015
+	}
+##交通系##
+#高速バス会社
+kokusoku_basu = {
+army_speed_factor=0.025
+	}
+#路線バス会社
+rosen_basu = {
+army_speed_factor=0.02
+	}
+#観光バス会社
+kankou_basu = {
+army_speed_factor=0.015
+	}
+#タクシー会社
+takusi_basu = {
+army_speed_factor=0.01
+	}
+	
+	
+##家電系##
+#ホームアプライアンスの達人
+home_kaden = {
+industrial_capacity_factory=0.05
+	}
+#白物家電の専門家
+siormon_kaden = {
+industrial_capacity_factoyr=0.03
+	}
+#家電量販店
+kaden_ryouhan = {
+industrial_capacity_factory=0.025
+	}
+#街の電器屋
+mati_denki = {
+industrial_capacity_factory=0.01
+	}	
+	
+}

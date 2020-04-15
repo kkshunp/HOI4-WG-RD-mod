@@ -1,0 +1,140 @@
+SKU_war_point_+1 = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_PONE
+	if = {
+		limit = {ROOT = {tag = KGW}}
+		add_to_variable = { var = kgw_war_point_decision_influence value = 1 }
+	}
+	if = {
+		limit = {ROOT = {tag = TKS}}
+		add_to_variable = { var = tks_war_point_decision_influence value = 1 }
+	}
+	if = {
+		limit = {ROOT = {tag = KUT}}
+		add_to_variable = { var = kut_war_point_decision_influence value = 1 }
+	}
+	if = {
+		limit = {ROOT = {tag = EHM}}
+		add_to_variable = { var = ehm_war_point_decision_influence value = 1 }
+	}
+}
+SKU_war_point_+1_tks = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_PONE
+	add_to_variable = { var = tks_war_point_decision_influence value = 1 }
+}
+SKU_war_point_+1_kgw = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_PONE
+	add_to_variable = { var = kgw_war_point_decision_influence value = 1 }
+}
+SKU_war_point_+1_kut = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_PONE
+	add_to_variable = { var = kut_war_point_decision_influence value = 1 }
+}
+SKU_war_point_+1_ehm = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_PONE
+	add_to_variable = { var = ehm_war_point_decision_influence value = 1 }
+}
+SKU_war_point_-1 = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_MONE
+	if = {
+		limit = {ROOT = {tag = KGW}}
+		add_to_variable = { var = kgw_war_point_decision_influence value = -1 }
+	}
+	if = {
+		limit = {ROOT = {tag = TKS}}
+		add_to_variable = { var = tks_war_point_decision_influence value = -1 }
+	}
+	if = {
+		limit = {ROOT = {tag = KUT}}
+		add_to_variable = { var = kut_war_point_decision_influence value = -1 }
+	}
+	if = {
+		limit = {ROOT = {tag = EHM}}
+		add_to_variable = { var = ehm_war_point_decision_influence value = -1 }
+	}
+}
+SKU_war_point_-1_tks = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_MONE
+	add_to_variable = { var = tks_war_point_decision_influence value = -1 }
+}
+SKU_war_point_-1_kgw = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_MONE
+	add_to_variable = { var = kgw_war_point_decision_influence value = -1 }
+}
+SKU_war_point_-1_kut = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_MONE
+	add_to_variable = { var = kut_war_point_decision_influence value = -1 }
+}
+SKU_war_point_-1_ehm = {
+	custom_effect_tooltip = SKU_WAR_POINT_EFFECT_MONE
+	add_to_variable = { var = ehm_war_point_decision_influence value = -1 }
+}
+SKU_diplomacy_point_+1 = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_PONE
+	if = {
+		limit = {ROOT = {tag = KGW}}
+		add_to_variable = { var = kgw_diplomacy_point_decision_influence value = 1 }
+	}
+	if = {
+		limit = {ROOT = {tag = TKS}}
+		add_to_variable = { var = tks_diplomacy_point_decision_influence value = 1 }
+	}
+	if = {
+		limit = {ROOT = {tag = KUT}}
+		add_to_variable = { var = kut_diplomacy_point_decision_influence value = 1 }
+	}
+	if = {
+		limit = {ROOT = {tag = EHM}}
+		add_to_variable = { var = ehm_diplomacy_point_decision_influence value = 1 }
+	}
+}
+SKU_diplomacy_point_+1_tks = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_PONE
+	add_to_variable = { var = tks_diplomacy_point_decision_influence value = 1 }
+}
+SKU_diplomacy_point_+1_kgw = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_PONE
+	add_to_variable = { var = kgw_diplomacy_point_decision_influence value = 1 }
+}
+SKU_diplomacy_point_+1_kut = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_PONE
+	add_to_variable = { var = kut_diplomacy_point_decision_influence value = 1 }
+}
+SKU_diplomacy_point_+1_ehm = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_PONE
+	add_to_variable = { var = ehm_diplomacy_point_decision_influence value = 1 }
+}
+SKU_diplomacy_point_-1 = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_MONE
+	if = {
+		limit = {ROOT = {tag = KGW}}
+		add_to_variable = { var = kgw_diplomacy_point_decision_influence value = -1 }
+	}
+	if = {
+		limit = {ROOT = {tag = TKS}}
+		add_to_variable = { var = tks_diplomacy_point_decision_influence value = -1 }
+	}
+	if = {
+		limit = {ROOT = {tag = KUT}}
+		add_to_variable = { var = kut_diplomacy_point_decision_influence value = -1 }
+	}
+	if = {
+		limit = {ROOT = {tag = EHM}}
+		add_to_variable = { var = ehm_diplomacy_point_decision_influence value = -1 }
+	}
+}
+SKU_diplomacy_point_-1_tks = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_MONE
+	add_to_variable = { var = tks_diplomacy_point_decision_influence value = -1 }
+}
+SKU_diplomacy_point_-1_kgw = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_MONE
+	add_to_variable = { var = kgw_diplomacy_point_decision_influence value = -1 }
+}
+SKU_diplomacy_point_-1_kut = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_MONE
+	add_to_variable = { var = kut_diplomacy_point_decision_influence value = -1 }
+}
+SKU_diplomacy_point_-1_ehm = {
+	custom_effect_tooltip = SKU_DIPLOMACY_POINT_EFFECT_MONE
+	add_to_variable = { var = ehm_diplomacy_point_decision_influence value = -1 }
+}

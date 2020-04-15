@@ -1,0 +1,39 @@
+state={
+	id=226
+	name="Nakakawati" 
+	manpower = 756230
+
+	state_category = large_city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex =3
+			arms_factory = 2
+				
+		}
+		victory_points = {
+			 4076 1
+		}
+		victory_points = {
+			 3309 10
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4076 2346 4016 3521 6065 6066 2682 3309 4455 6067
+	}
+}

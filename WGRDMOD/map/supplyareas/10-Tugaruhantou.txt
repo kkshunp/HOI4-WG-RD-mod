@@ -1,0 +1,8 @@
+supply_area={
+	id=10
+	name="Aomoritoubu"
+	value=6
+	states={
+		23 24 25 26
+	}
+}

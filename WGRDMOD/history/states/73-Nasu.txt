@@ -1,0 +1,34 @@
+state={
+	id=73
+	name="Nasu" 
+	manpower = 199450
+
+	state_category = town
+	resources={
+		rubber=4
+		oil=2
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =2
+			arms_factory = 0
+		}
+		victory_points = {
+			 2347 5
+		}
+		victory_points = {
+			 1903 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3479 2227 3079 1530 4198 2992 3779 2347 321 1903 2392
+	}
+}

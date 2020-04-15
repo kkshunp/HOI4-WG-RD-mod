@@ -1,0 +1,33 @@
+state={
+	id=70
+	name="Aduma" 
+	manpower = 75412
+
+	state_category = city
+	resources={
+		chromium=6
+		aluminium=4
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex =1
+		}
+		add_core_of = JP1
+		victory_points = {
+			3629 5
+		}
+		victory_points = {
+			3712 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	5829 3893 4050 42221 3161 5830 3712 1584 3867 4713 5833 2225 2820 3162 3251 1022 4222 1459 2318 3629 4221 2970 2650 3930
+	}
+}

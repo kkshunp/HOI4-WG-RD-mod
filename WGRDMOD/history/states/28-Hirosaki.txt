@@ -1,0 +1,34 @@
+state={
+	id=28
+	name="Hirosaki" 
+	manpower = 28510
+
+	state_category = town
+	resources={
+		chromium= 1
+		steel= 2
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			4374 = {
+				naval_base = 4
+			}
+
+		}
+		victory_points = {
+			 4374 20
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3852 5402 4374 3170 4773 4481 5409 5408 5149 4486
+	}
+}

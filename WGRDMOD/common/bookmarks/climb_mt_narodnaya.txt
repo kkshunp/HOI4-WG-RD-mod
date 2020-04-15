@@ -1,0 +1,30 @@
+bookmarks = {
+	bookmark = {
+		name = "CLIMB_MT_NARODNAYA_NAME"
+		desc = "CLIMB_MT_NARODNAYA_DESC"
+		date = 1985.2.23.12
+		picture = "GFX_select_date_1939"
+		default_country = "GNM"
+		
+		"SOV"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = communism
+		}
+		"JP1"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+		}
+		"KR1"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+		}
+		"US1"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+		}
+		
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+	}
+}

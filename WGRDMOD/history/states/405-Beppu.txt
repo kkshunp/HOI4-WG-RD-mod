@@ -1,0 +1,39 @@
+
+state={
+	id=405
+	name="Beppu"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			5313 5 
+		}
+		victory_points = {
+			5271 3 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		4282 4967 5094 5271 5313 
+	}
+	manpower=152000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

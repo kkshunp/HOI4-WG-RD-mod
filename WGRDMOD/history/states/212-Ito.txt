@@ -1,0 +1,35 @@
+state={
+	id=212
+	name="Ito" 
+	manpower =301562
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 234 5
+		}
+		victory_points = {
+			 5400 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	572 1907 234 1792 385 2421 2547 4262 6057 3296 6058 3179 3739 5400 6059 3839 5389 3080 4037 2372 4541 6060 6063 3038 6061 3635 6062
+	}
+}

@@ -1,0 +1,32 @@
+state={
+	id=256
+	name="Tosayo" 
+	manpower = 80541
+
+	state_category = rural
+	resources={
+		chromium=8
+		aluminium=1
+		steel=12
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			5567 3
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4950 4173 5567 5570 5560 5559 5146 6117 3328 6116 5575 5566 4248 5130 5576 4898 3730
+	}
+}

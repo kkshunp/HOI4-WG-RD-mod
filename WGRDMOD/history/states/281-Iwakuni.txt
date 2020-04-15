@@ -1,0 +1,42 @@
+
+state={
+	id=281
+	name="Iwakuni"
+	resources={
+		chromium=0.000
+		aluminium=3.000
+		steel=20.000
+		tungsten=188.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+				
+
+		}
+		victory_points = {
+			5131 5 
+		}
+		victory_points = {
+			4696 3 
+		}
+#		victory_points = {
+#			4562 3 
+#		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3942 4190 4209 4807 4916 5058 5131 5171 5189 6111
+	}
+	manpower=137070
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,8 @@
+supply_area={
+	id=95
+	name="ootu"
+	value=6
+	states={
+		198
+	}
+}

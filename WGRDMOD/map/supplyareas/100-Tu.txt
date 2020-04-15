@@ -1,0 +1,8 @@
+supply_area={
+	id=100
+	name="Tu"
+	value=10
+	states={
+	205
+	}
+}

@@ -1,0 +1,36 @@
+state={
+	id=215
+	name="Uda" #‰F‘½
+	manpower =356140
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=12
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 2607 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	1874 2683 741 4213 2607 2433 6042 6041 3836
+	}
+}

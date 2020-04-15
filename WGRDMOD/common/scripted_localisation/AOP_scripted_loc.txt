@@ -1,0 +1,9 @@
+defined_text = {
+	name = GetSKUwarpoint
+	text = {
+		trigger = {
+			original_tag = KGW
+		}
+		localization_key = SKU_WAR_POINT_LOC_KGW
+	}
+}

@@ -1,0 +1,36 @@
+state={
+	id=64
+	name="Iwaki" 
+	manpower = 448454
+
+	state_category = city
+	resources={
+		oil=12
+		steel=14
+		tungsten=34
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =3 
+			arms_factory = 2	
+			air_base = 4
+			3727 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 3727 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2552 3474 1944 3949 1808 1375 1519 3197 3727 2798 3645 4341 3322 2609 5799 2143
+	}
+}

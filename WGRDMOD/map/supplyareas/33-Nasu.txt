@@ -1,0 +1,8 @@
+supply_area={
+	id=33
+	name="Masu"
+	value=6
+	states={
+		77 74 75 73
+	}
+}

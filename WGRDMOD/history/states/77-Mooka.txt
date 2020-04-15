@@ -1,0 +1,26 @@
+state={
+	id=77
+	name="Mooka" 
+	manpower = 28230
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			 3953 3
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3221 3608 3953 4412 3213 2679 2407 5810 5807 5805 5811 5812
+	}
+}

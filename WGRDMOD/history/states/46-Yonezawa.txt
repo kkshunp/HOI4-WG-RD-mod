@@ -1,0 +1,30 @@
+state={
+	id=46
+	name="Yonezawa" 
+	manpower = 31200
+
+	state_category = large_town
+	resources={
+		rubber=108
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			 3381 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4229 5115 4858 4127 3033 1512 2646 1181 4588 4329 2566 5055 2029 2459 4592 5193 4294 3381 3614 4653 3088 1122 4006 4377 1053 817 4445 5259 5311 5768 5767 3084 3670 4686 4473 5765 2936 5766 2566 5773 5770 5772 5771 5769 2219
+
+	}
+}

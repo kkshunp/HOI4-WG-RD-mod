@@ -1,0 +1,51 @@
+
+state={
+	id=309
+	name="Oita"
+	resources={
+		chromium=5.000
+		aluminium=42.000
+		steel=20.000
+		tungsten=10.000
+		rubber=5.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 3
+			arms_factory = 1
+			5422 = {
+				naval_base = 4
+			}
+			dockyard = 2
+
+		}
+		victory_points = {
+			5422 25 
+		}
+#		victory_points = {
+#			5313 5 
+#		}
+#		victory_points = {
+#			3880 5 
+#		}
+#		victory_points = {
+#			5425 5 
+#		}
+#		victory_points = {
+#			4561 3 
+#		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		4317 4965 5039 5109 5422 5436 5478 
+	}
+	manpower=484960
+	buildings_max_level_factor=1.000
+	state_category=city
+}

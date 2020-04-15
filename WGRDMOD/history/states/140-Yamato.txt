@@ -1,0 +1,23 @@
+state={
+	id=140
+	name="Yamato" 
+	manpower = 114473
+
+	state_category = city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+		}
+		victory_points = {
+			 3424 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3424 1650 3062
+	}
+}

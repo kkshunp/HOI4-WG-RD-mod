@@ -1,0 +1,63 @@
+﻿### Names generation for aces ###
+# Surnames can be male/female dependent or general. Fe. in Polish some surnames has different endings depending on the gender.
+# Names and Surnames are randomly picked and will sometimes repeat, but will never repeat in combinations for example there will never be generated another "John Smith".
+# Assigning the callsign is random - may be assigned or not. If we use the callsign, it will never be assigned to anyone again. Callsigns are not obligatory to script.
+# Picking up a gender is random, and is influenced by the amount of names scripted.
+
+default = {
+	male = {
+		names = { 
+			佐藤 鈴木 高橋 田中 伊藤 渡辺 山本 中村 小林 加藤 吉田 山田 佐々木 山口 松本 井上 木村 林 斎藤 清水 山崎 森 池田 橋本 阿部 山下 中島 石井 小川 前田 岡山 長谷川 藤田 後藤 近藤 村上 遠藤 青木 坂本 斉藤 福田 太田 西村 藤井 岡本 藤原 金子 三浦 中野 中川 原田 松田 竹内 小野 田村 中山 和田 石田 森田 上田 原 内田 柴田 酒井 横山 高木 安藤 宮本 大野 小島 谷口 工藤 今井 高田 増田 丸山 杉山 村田 大塚 小山 新井 平野 橋本 河野 上野 武田 押口 松井 菅原 岩崎 久保 木下 佐野 野村松尾 菊池 杉本 市川 古川 大西 島田 水野
+		}
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { 
+		健一 誠 哲也 剛 博 直樹 学 博 博之 英樹 修 大和 大翔 蓮 湊 悠人 匠 蒼 幸之助 竜二郎 光一 仁 凛太郎 史人 孝昭 翔平  龍之介 総一郎 太郎 栄一 風太 太陽 陽一 蓮 橙悟 茂太郎 空 冬真 聖 幸助 正成 一太郎 二太郎 三太郎 次郎 三郎 四郎 栄吉 角造 金助 銀ノ介 源一 小介 琥珀 左京 佐助 博人 志貴 時雨 末吉 竹松 武彦 隆三 洋三郎 憲一 和久 良明 秀人 弘一 晋三 栄作 純一郎 重信 角栄 波羅度久栖 茂 伸太 篤弘 隆之介 幸平 吾郎 武 慎之介 淳五郎 章 喜平 義晴 敬一郎 源太 寛治 純 紘汰 晴人 弦太朗 映司 士 総司 一真 真司 哲也 雄介 守 修也 有人 一郎太 塀吾郎 鉄平 真一 歩 佐吉 空介 竜吾 切斗 ジョン 李 泳三 智弘 光
+	 }
+}
+ 
+
+JAP = {
+	male = {
+		names = { 
+		Aritomo
+		Goro Gentaro Gonnohyoe
+		Heihachiro Hiroshi Hikonojo Hyoe Hayao
+		Iwao
+		Jiro Jinzaburo
+		Kiyotaka Kuranosuke Kozo Kantaro Koichiro Kagenori Kageaki Kotohito Keisuke Kazushige Kenkichi
+		Maresuke Masujiro Michisura Masatake Mitsuomi Mitsue Mineo
+		Nariaki Nobuyoshi
+		Rokuro
+		Sukeyuki Sukenori Shoin Sumiyoshi Samata Soroku Shichiro Shigeto Sotokichi Shigeru Sadao Shinsaku
+		Takayoshi Takamori Toshimichi Tsugumichi Tadakuni Tomonosuke Taro Toshiyoshi Tetsutaro Taruhito Takeaki Tamemoto Tomasaburo
+		Yoshika Yoshinobu Yoshimichi Yoshida Yasukata Yahachi Yusaku Yoshifuru Yoshinori Yasuyoshi
+		 }
+	}
+	female = {
+		names = { Aimi Asami Asuka }
+	}
+	surnames = { 
+		Arisugawa Arichi Akiyama Araki
+		Dewa
+		Enomoto
+		Hasegawa Honjo
+		Ito Inoue Ichinohe Itagaki
+		Kido Kuroda Katsura Kodama Kabayama Kawamura Kuroki Kawakami Kamimura Kataoka Kamio Kato Kanin Katsu
+		Makino Muto Minami Masaki Matsudaira
+		Nakamuta Nogi Nire Nozu
+		Okubo Oyama Omura Oku Okada Osumi
+		Saigo Suzuki Sato Sakura Shibayama Shimamura Shirakawa
+		Togo Takashima Tsuboi Tachibana Terauchi Tamon Takasugi Tokugawa
+		Uehara Uryu Ugaki Ueda
+		Yamagata Yamamoto Yamakawa Yashiro Yui Yamashita Yamaya
+	
+	}
+	callsigns = { Viper Lightning Devil Dragon Fury Bat Beer Sake Demon Dirty Lance Panther Shogun Vampire "War Lord" }
+}
+

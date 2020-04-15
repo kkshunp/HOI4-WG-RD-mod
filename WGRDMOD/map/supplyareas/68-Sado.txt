@@ -1,0 +1,8 @@
+supply_area={
+	id=68
+	name="kamikamikami"
+	value=2
+	states={
+		146
+	}
+}

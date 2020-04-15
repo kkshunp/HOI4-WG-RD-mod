@@ -1,0 +1,27 @@
+state={
+	id=137
+	name="Yokohama" 
+	manpower = 3825101
+
+	state_category = megalopolis
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 6
+			dockyard = 12
+			fuel_silo = 1
+			3224 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 3224 30
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3224 1728 1384 5894 2177 5913
+	}
+}

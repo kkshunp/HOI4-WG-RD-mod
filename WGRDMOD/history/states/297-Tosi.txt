@@ -1,0 +1,36 @@
+state={
+	id=297
+	name="Tosu" 
+	manpower = 75755
+
+	state_category = city
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 3869 2
+		}
+		victory_points = {
+			5392 2
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5273 3869 5465 5392 4360
+	#5263 4745
+	}
+}

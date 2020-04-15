@@ -1,0 +1,37 @@
+state={
+	id=99
+	name="Titibu" 
+	manpower = 40196
+
+	state_category = city
+	resources={
+		aluminium=34
+		steel=24
+		tungsten=4
+		oil=21
+		aluminium=32
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = JP1
+		victory_points = {
+			3416 15
+		}
+		victory_points = {
+			4504 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		5302 5291 3113 2616 1877 2285 2171 591 5862 3441 825 4074 2763 5863 1245 2467 4088 5864 5865 3416 2757 5874 3463 5875 1776 2307 4504 2800 1347 1699 5918
+	}
+}

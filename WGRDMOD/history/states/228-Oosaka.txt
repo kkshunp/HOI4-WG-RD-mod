@@ -1,0 +1,40 @@
+state={
+	id=228
+	name="Oosaka" 
+	manpower = 3510000
+
+	state_category = megalopolis
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=3
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex =12
+			arms_factory = 6
+		air_base = 10
+			dockyard = 2
+		4600 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			 3215 35
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4070 2491 4408 4600 3215
+	}
+}

@@ -1,0 +1,33 @@
+state={
+	id=371
+	name="Naka" 
+	manpower = 25325
+
+	state_category = pastoral
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4899 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			 4571 1
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5543 4571 5548 1883 5284 5554 5040
+	}
+}

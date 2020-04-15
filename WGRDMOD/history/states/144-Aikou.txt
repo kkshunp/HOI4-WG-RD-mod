@@ -1,0 +1,29 @@
+state={
+	id=144
+	name="Aikou" 
+	manpower = 58674
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			2854 1
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	2854 711 3502 5929 1885
+	}
+}

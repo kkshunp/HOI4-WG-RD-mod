@@ -1,0 +1,44 @@
+state={
+	id=341
+	name="Kumezima" 
+	manpower = 4111
+
+	state_category = small_island
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=20
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+ 				
+			5137 = {
+				naval_base = 2
+			}
+				3493 = {
+				naval_base = 1
+			}
+			3343 = {
+				naval_base = 1
+			}
+				4174 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			 3509 3 
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4174 2949 3058 3493 3343 3901 1466 3509 2054 5137
+	}
+}

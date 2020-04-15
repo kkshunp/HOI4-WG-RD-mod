@@ -1,0 +1,32 @@
+state={
+	id=13
+	name="Titose" 
+	manpower = 280000
+
+	state_category = metropolis
+	resources={
+		oil=3
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			fuel_silo = 3
+		}
+		victory_points = {
+			 3965 10
+		}
+		victory_points = {
+			 1452 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3965 2163 4380 3599 4276 1452 
+	}
+}

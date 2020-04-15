@@ -1,0 +1,33 @@
+
+state={
+	id=167
+	name="Tonami"
+	resources={
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+				
+
+		}
+		victory_points = {
+			5644 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		1898 4643 2829 1518 3305 5641 5644 5643 5647 5642 5648 5357 4933 5965 5964 3947 5650 5174 5014 5645 5105 3338 5981 5982 6259 6258 6257 6260
+	}
+	manpower=208667
+	state_category=town
+}

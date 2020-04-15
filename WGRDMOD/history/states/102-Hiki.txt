@@ -1,0 +1,31 @@
+state={
+	id=102
+	name="Hiki" 
+	manpower = 492687
+
+	state_category = large_city
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 3
+		}
+		victory_points = {
+			5870 2
+		}
+		victory_points = {
+			3946 2
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	5287 4866 3340 4747 5870 5869 5876 4935 3946 5873 5879 2521
+	}
+}

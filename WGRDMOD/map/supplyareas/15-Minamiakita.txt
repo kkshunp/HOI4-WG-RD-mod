@@ -1,0 +1,8 @@
+supply_area={
+	id=15
+	name="Minamiakita"
+	value=6
+	states={
+		35 36 37
+	}
+}

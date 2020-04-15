@@ -1,0 +1,30 @@
+state={
+	id=5
+	name="Yubari" 
+	manpower = 12000
+
+	state_category = city
+	resources={
+		oil=486
+		aluminium=12
+		rubber=72
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			fuel_silo = 1
+		}
+		victory_points = {
+			 1691 15
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+	provinces={
+	1691 1410 2140 2306
+	}
+}

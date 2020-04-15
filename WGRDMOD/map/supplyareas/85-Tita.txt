@@ -1,0 +1,8 @@
+supply_area={
+	id=85
+	name="Tita"
+	value=7
+	states={
+		176 177
+	}
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=384
+	name="Buzen"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+				
+
+		}
+#		victory_points = {
+#			5212 5 
+#		}
+		victory_points = {
+			6156 5
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		6156 6155
+	}
+	manpower=38460
+	buildings_max_level_factor=1.000
+	state_category=town
+}

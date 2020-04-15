@@ -1,0 +1,30 @@
+state={
+	id=177
+	name="Ama" 
+	manpower = 223000
+
+	state_category = large_town
+	resources={
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 2100 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2100 2727 4056 6009 6342 6334 6346 6350 6360
+	}
+}

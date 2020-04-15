@@ -1,0 +1,39 @@
+
+state={
+	id=311
+	name="Usuki"
+	resources={
+		chromium=5.000
+		aluminium=4.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			dockyard = 1
+
+		}
+		victory_points = {
+			4871 3 
+		}
+		victory_points = {
+			4729 2 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		4293 4704 4729 4854 4871 5050 5157 5447 
+	}
+	manpower=53000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

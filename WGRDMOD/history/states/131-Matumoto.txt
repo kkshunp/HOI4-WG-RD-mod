@@ -1,0 +1,31 @@
+state={
+	id=131
+	name="Matumoto" 
+	manpower = 574102
+
+	state_category =city 
+	resources={
+		aluminium=2
+		steel=24
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		victory_points = {
+			 2835 15
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	5959 4662 3956 3742 3826 2948 5364 5963 2470 2041 2388 2835 1700 5962 2821 4386 3951 1527 3586 2291 4413 2821 5962 5961 3499 5960
+	}
+}

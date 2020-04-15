@@ -1,0 +1,38 @@
+state={
+	id=248
+	name="Tazima" 
+	manpower = 236541
+
+	state_category = town
+	resources={
+		chromium=1
+		aluminium=86
+		steel=0
+		tungsten=1
+		rubber=3
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+				
+		}
+		victory_points = {
+			 4918 5
+		}
+		victory_points = {
+			 3319 5
+		}
+		victory_points = {
+			 4971 15
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4872 4971 3508 3859 3319 4918 4290 4446 4762 4488 4003 6048 4959 4959 6047
+	}
+}

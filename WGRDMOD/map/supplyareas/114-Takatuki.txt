@@ -1,0 +1,8 @@
+supply_area={
+	id=114
+	name="Oosaka"
+	value=9
+	states={
+	229 230 231 366
+	}
+}

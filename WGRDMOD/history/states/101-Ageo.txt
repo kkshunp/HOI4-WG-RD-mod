@@ -1,0 +1,28 @@
+state={
+	id=101
+	name="Ageo" 
+	manpower = 362140
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = {
+			 5293 5
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	5289 5878 5293
+	}
+}

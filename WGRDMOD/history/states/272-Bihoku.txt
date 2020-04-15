@@ -1,0 +1,36 @@
+
+state={
+	id=272
+	name="Shoubara"
+	resources={
+		chromium=22.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=22.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 0
+
+		}
+		victory_points = {
+			5122 3 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		1714 3193 3237 3284 3380 3665 4141 4782 4852 5092 5096 5122 5158 6100 6101 6102 6103 
+	}
+	manpower=49682
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

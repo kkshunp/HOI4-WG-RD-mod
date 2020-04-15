@@ -1,0 +1,19 @@
+state={
+	id=427
+	name="STATE_427"
+	state_category = metropolis
+	history={
+		owner = KR1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		add_core_of = KR1
+	}
+	provinces={
+		1771 4183 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+}

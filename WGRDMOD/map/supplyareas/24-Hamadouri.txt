@@ -1,0 +1,8 @@
+supply_area={
+	id=24
+	name="Sennan"
+	value=6
+	states={
+		64 63 56
+	}
+}

@@ -1,0 +1,35 @@
+state={
+	id=257
+	name="Mima" 
+	manpower = 40541
+
+	state_category = rural
+	resources={
+		chromium=6
+		aluminium=1
+		steel=8
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+		}
+		victory_points = {
+			 4904 3
+		}
+		victory_points = {
+			 3581 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4904 4972 3581 5095 5547 5546 5095 5556 5545 6115 6114 3758 5557 5562 4067 3108 6113 5564 3925
+	}
+}

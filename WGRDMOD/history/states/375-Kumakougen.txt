@@ -1,0 +1,32 @@
+state={
+	id=375
+	name="Kumakougen" 
+	manpower = 53200
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = {
+			5594 5
+		}
+		
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	5594 5596 1931 4892 1609 5605 5603 2610 5594 2776 5595 2249 6137 6136
+	}
+}

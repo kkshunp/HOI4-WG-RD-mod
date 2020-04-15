@@ -1,0 +1,29 @@
+state={
+	id=59
+	name="Minamiaidu" 
+	manpower = 44685
+
+	state_category = rural
+	resources={
+		steel=18
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+		}
+		victory_points = {
+			 2517 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3657 4010 5257 4356 4984 3576 5253 3068 3945 2629 4658 2680 3456 4572 5268 5761 5760 5785 5786 5787 5787 2930 2404 5372 1060 2006 3442 4387 3078 4550 5788 2663 3777 4177 5789 2517
+	}
+}

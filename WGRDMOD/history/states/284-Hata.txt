@@ -1,0 +1,44 @@
+state={
+	id=284
+	name="Hata" 
+	manpower = 21500
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=8
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+				
+		} 
+		#victory_points = {
+			#3374 5
+		#}
+		#victory_points = {
+			 #3256 5
+		#}
+		victory_points = {
+			 772 5
+		}
+		victory_points = {
+			 4155 3
+		}
+		#victory_points = {
+			 #3551 3
+		#}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3589 3999 4155 5593 5588 2159 247 772 428 3848 375
+	}
+}

@@ -1,0 +1,24 @@
+state={
+	id=114
+	name="Nerima" 
+	manpower = 2544421
+
+	state_category = metropolis
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 4
+			arms_factory = 5
+		}
+		victory_points = {
+			 2815 8
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3142 2815 3140 5025
+	}
+}

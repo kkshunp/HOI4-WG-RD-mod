@@ -1,0 +1,33 @@
+state={
+	id=11
+	name="Nemuro" 
+	manpower = 92000
+
+	state_category = town
+	resources={
+		chromium=4
+		aluminium=11
+		oil=26
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 2
+			4564 = {
+				naval_base = 1
+			}
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		victory_points = {
+			 4564 10
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4641 4316 4468 4564
+	}
+}

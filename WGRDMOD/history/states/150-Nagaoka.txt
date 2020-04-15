@@ -1,0 +1,34 @@
+state={
+	id=150
+	name="nagaoka" 
+	manpower = 558650
+
+	state_category = town
+	resources={
+		chromium= 4
+		oil=  4
+	}
+	history={
+		owner =JP1 
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+				 
+		}
+                victory_points = {
+			 1994 5
+		}
+		victory_points = {
+			 5209 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={ 2244 3692 3066 3803 4370 5210 5252 3594 3030 5329 5211 1994 5272 3185 4485 2587 3506 5322 3411 5343 3831 5232 5209 2564 4118 1840 1840 2550 3361 5325 4798 5204 3449
+	}
+}

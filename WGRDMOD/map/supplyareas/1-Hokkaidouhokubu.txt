@@ -1,0 +1,8 @@
+supply_area={
+	id=1
+	name="Hokkaidouhokubu"
+	value=4
+	states={
+		1 3 2
+	}
+}

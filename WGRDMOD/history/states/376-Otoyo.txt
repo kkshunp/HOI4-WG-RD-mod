@@ -1,0 +1,32 @@
+state={
+	id=376
+	name="Ootoyo" 
+	manpower = 5670
+
+	state_category = pastoral
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+		victory_points = {
+			2623 1
+		}
+		
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	2623 1387 5535 4204 3827 4204 5573 2693 6134 6131 5110 6133 6132 5584 5218 2028
+	}
+}

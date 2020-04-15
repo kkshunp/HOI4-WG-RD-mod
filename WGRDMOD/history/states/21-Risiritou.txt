@@ -1,0 +1,25 @@
+state={
+	id=21
+	name="Risiritou" 
+	manpower = 5400
+
+	state_category = small_island
+
+	history={
+		owner = JP1
+		add_core_of = JP1
+		buildings = {
+			infrastructure = 1
+			4459 = {
+				naval_base = 1
+			}
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+	}
+	provinces={
+	4459
+	}
+}

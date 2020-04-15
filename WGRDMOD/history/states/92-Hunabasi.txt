@@ -1,0 +1,40 @@
+state={
+	id=92
+	name="Hunabasi" 
+	manpower = 4185429
+
+	state_category = metropolis
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			arms_factory = 2
+			fuel_silo = 2
+			413 = {
+				bunker = 2
+			}
+			3645 = {
+				bunker = 4
+			}
+			6 = {
+				bunker = 4
+			}
+		}
+		victory_points = {
+			 7 15
+		}
+		victory_points = {
+			 4 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	6 3 1541 8 413 7 394 4 10 1
+	}
+}

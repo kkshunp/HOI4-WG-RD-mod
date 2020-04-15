@@ -1,0 +1,35 @@
+state={
+	id=181
+	name="Nisio" 
+	manpower = 562100
+
+	state_category = city
+	resources={
+
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 0
+			fuel_silo = 1
+				
+			1817 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			 1 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3225 1264 1434 4154 1817 1135 322 6395 6322 6317 6314 6321 6316 6311 6393 2525
+	}
+}

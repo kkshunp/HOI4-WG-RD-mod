@@ -1,0 +1,41 @@
+state={
+	id=217
+	name="Ioutou" #—°‰©“‡
+	manpower =47
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			fuel_silo = 1
+			arms_factory = 1
+				
+			air_base = 7
+			anti_air_building = 5
+			2290 = {
+				naval_base = 4
+				bunker = 1
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			 2290 5
+		}
+
+		add_core_of = JP1
+	}
+
+	provinces={
+	2290
+	}
+}

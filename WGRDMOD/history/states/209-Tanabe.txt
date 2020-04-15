@@ -1,0 +1,35 @@
+state={
+	id=209
+	name="Tanabe" 
+	manpower = 53795
+
+	state_category = town
+	resources={
+		chromium=0
+		aluminium=0
+		steel=9
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+		2 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			 2299 10
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	891 1402 2771 2235 117 1396 4147 425 580 2544 1138 777 55 219 353  2 1064 1370 2299 1331 6053 6052
+	}
+}

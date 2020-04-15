@@ -1,0 +1,46 @@
+state={
+	id=205
+	name="Tu" 
+	manpower = 784510
+
+	state_category = metropolis
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=2
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			fuel_silo = 1
+			4732 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			 4732 20
+		}
+		victory_points = {
+			 4362 3
+		}
+		victory_points = {
+			 4224 1
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	 5195 5507 4233 5510 1548 1901 15535 5517 2903 3444 3525 4795 4359 3660 2926 2196 2945 4038 4660 2317 4224 4362 3840 4664 4732
+	}
+}

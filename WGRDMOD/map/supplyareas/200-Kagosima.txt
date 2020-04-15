@@ -1,0 +1,8 @@
+supply_area={
+	id=200
+	name="test"
+	value=5
+	states={
+	396 397
+	}
+}

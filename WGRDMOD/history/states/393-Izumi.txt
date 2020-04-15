@@ -1,0 +1,46 @@
+
+state={
+	id=393
+	name="Izumi"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 0
+			4449 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			4449 3 
+		}
+		victory_points = {
+			4990 2 
+		}
+		victory_points = {
+			3979 2 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3750 3917 3943 3979 4449 4536 4990 5012 6191 
+	}
+	manpower=81720
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

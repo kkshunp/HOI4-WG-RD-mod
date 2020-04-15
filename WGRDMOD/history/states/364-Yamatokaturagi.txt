@@ -1,0 +1,38 @@
+state={
+	id=364
+	name="Yamatokaturagi" 
+	manpower = 100000
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=1
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+ 				
+
+		}
+		victory_points = {
+			4919 3
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces= {
+	4196 2567 4919 3313 6064
+	}
+}

@@ -1,0 +1,42 @@
+
+state={
+	id=314
+	name="Aso"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=54.000
+		tungsten=0.000
+		rubber=0.000
+		oil=5.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+				
+
+		}
+		victory_points = {
+			5227 5 
+		}
+#		victory_points = {
+#			5112 2 
+#		}
+		victory_points = {
+			5452 2 
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		 6187 6186  6185 3875 3936 4635 4927 5093 5112 5150 5206 5223 5227 5267 5452 4109 5393 5472 6172 6171 6179
+	}
+	manpower=99000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

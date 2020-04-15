@@ -1,0 +1,29 @@
+state={
+	id=83 
+	name="Rokkou" 
+	manpower = 273406
+
+	state_category = town
+	resources={
+		chromium=72
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex =1
+		}
+		victory_points = {
+			 4859 5
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of =JP1
+	}
+
+	provinces={
+	3415 3989 4598 4859 4951 5088
+	}
+}

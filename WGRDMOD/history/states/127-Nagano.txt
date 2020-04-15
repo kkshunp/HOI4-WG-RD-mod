@@ -1,0 +1,34 @@
+state={
+	id=127
+	name="Nagano" 
+	manpower = 721300
+
+	state_category = large_city
+	resources={
+		rubber=5
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 2
+		}
+		victory_points = {
+			2095 25
+		}
+		victory_points = {
+			2097 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	3311 3548 2097 2095 4771 3370 1948 3077
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=9
+	name="Abasiri" 
+	manpower = 37000
+
+	state_category = city
+	resources={
+		steel=8
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			 4230 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4856 3238 4425 3397 4040 4230
+	}
+}

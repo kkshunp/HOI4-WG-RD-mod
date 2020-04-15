@@ -1,0 +1,8 @@
+supply_area={
+	id=43
+	name="Saitama"
+	value=12
+	states={
+		105
+	}
+}

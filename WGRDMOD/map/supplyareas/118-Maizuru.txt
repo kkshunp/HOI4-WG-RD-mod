@@ -1,0 +1,8 @@
+supply_area={
+	id=118
+	name="Maizuru"
+	value=7
+	states={
+	235 227 236 367
+	}
+}

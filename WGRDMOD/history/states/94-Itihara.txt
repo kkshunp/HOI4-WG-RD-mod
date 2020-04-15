@@ -1,0 +1,28 @@
+state={
+	id=94
+	name="Itihara" 
+	manpower = 210411
+
+	state_category = metropolis
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 6
+		}
+		victory_points = {
+			 1802 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2358 2601 1802 2711 1964 1371 816
+	}
+}

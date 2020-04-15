@@ -1,0 +1,39 @@
+
+state={
+	id=148
+	name="zyouetu"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+				
+			4461 = {
+				naval_base = 3
+			}
+
+		}
+		victory_points = {
+			4461 5 
+		}
+		victory_points = {
+			5027 2
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		4750 5254 1966 5378 5339 5334 5349 1993 2162 5027 5245 5332 5373 5354 5197 3316 3012 2027 5336 5377 4394 2327 3299 5352 5370 4579 5255 5365 1275 4461 4719 5814 5815 5816 5817
+	}
+	manpower=280867
+	state_category=city
+}

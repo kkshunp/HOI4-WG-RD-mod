@@ -1,0 +1,33 @@
+
+state={
+	id=164
+	name="Itoigawa"
+	resources={
+
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+				
+
+		}
+		add_core_of = JP1
+		victory_points = {
+			 2183 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+		4557 5355 3168 3489 2602 5368 5256 4249 2183 5250 5813
+	}
+	manpower=52867
+	state_category=town
+}

@@ -1,0 +1,28 @@
+state={
+	id=119
+	name="Okutama" 
+	manpower = 687451
+
+	state_category = rural
+	resources={
+		aluminium=24
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			 5903 2
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	4181 5907 4770 5903 3216 4175 5896 5895 5897 2315 3216 6204 6207 6203 6208 6206
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=109
+	name="Sibuya" 
+	manpower = 1587201
+
+	state_category = megalopolis
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 12
+			arms_factory = 6
+			
+		}
+		victory_points = {
+			 3382 30
+		}
+		victory_points = {
+			 2781 5
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2781 2534 3382
+	}
+}

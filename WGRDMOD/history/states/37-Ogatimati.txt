@@ -1,0 +1,23 @@
+state={
+	id=37
+	name="Ogatimati" 
+	manpower = 81000
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	845 927 2732 3050 1145 2325
+	}
+}

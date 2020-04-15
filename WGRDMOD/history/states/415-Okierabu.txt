@@ -1,0 +1,35 @@
+state={
+	id=415
+	name="Okinoerabu"
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+				
+			5100 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3719 5010 5080 4759 5100
+	}
+	manpower= 350
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

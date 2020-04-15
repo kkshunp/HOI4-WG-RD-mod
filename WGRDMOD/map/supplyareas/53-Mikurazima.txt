@@ -1,0 +1,8 @@
+supply_area={
+	id=53
+	name="mikura"
+	value=1
+	states={
+		123
+	}
+}

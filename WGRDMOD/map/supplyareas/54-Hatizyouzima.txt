@@ -1,0 +1,8 @@
+supply_area={
+	id=54
+	name="Hatizyouzima"
+	value=1
+	states={
+		124
+	}
+}

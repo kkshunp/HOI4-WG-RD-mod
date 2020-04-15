@@ -1,0 +1,8 @@
+supply_area={
+	id=2
+	name="Hokkaidoutoubu"
+	value=4
+	states={
+		9 10 11
+	}
+}

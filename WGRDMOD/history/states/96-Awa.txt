@@ -1,0 +1,30 @@
+state={
+	id=96
+	name="Awa" 
+	manpower = 7903
+
+	state_category = town
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex =1
+			2872 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			 2872 2
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	2211 973 2872 3133 2528 1228 4646 2876
+	}
+}

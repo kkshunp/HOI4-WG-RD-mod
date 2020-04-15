@@ -1,0 +1,42 @@
+
+state={
+	id=317
+	name="Yatusiro"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=48.000
+		tungsten=0.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+				
+
+		}
+#		victory_points = {
+#			5226 5 
+#		}
+		victory_points = {
+			5066 10 
+		}
+#		victory_points = {
+#			4994 5 
+#		}
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		3208 4162 4187 4487 4615 4650 4806 5066 5101 5203 5406 5415 5418 3282
+	}
+	manpower=127470
+	buildings_max_level_factor=1.000
+	state_category=city
+}

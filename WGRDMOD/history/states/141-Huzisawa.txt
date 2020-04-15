@@ -1,0 +1,26 @@
+state={
+	id=141
+	name="Huzisawa" 
+	manpower = 564101
+
+	state_category = large_city
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 5 
+		industrial_complex = 5
+		}
+		victory_points = {
+			 1130 1
+		}
+		add_core_of = JP1
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	597 1130 2618 2447 
+	}
+}

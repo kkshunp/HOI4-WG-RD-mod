@@ -1,0 +1,30 @@
+state={
+	id=29
+	name="Tugaruhanntou" 
+	manpower = 56000
+
+	state_category = rural
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			 3693 10
+		}
+		victory_points = {
+			 2892 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4890 2892 3939 3792 5454 4419 3693 5469 4441
+	}
+}

@@ -1,0 +1,38 @@
+state={
+	id=71
+	name="Takasaki" 
+	manpower = 468541
+
+	state_category = metropolis
+	resources={
+		chromium=7
+		oil=38
+	}
+	history={
+		owner =JP1 
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 4
+			air_base = 2
+		}
+		add_core_of = JP1
+		victory_points = {
+			 5286 5
+		}
+		victory_points = {
+			 5839 1
+		}
+		victory_points = {
+			 5855 2
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+	}
+
+	provinces={
+	5828 5305 5299 5290 5846 4573 4095 3624 5845 3388 2969 3624 5844 5839 2147 2555 2686 1899 5834 2445 5836 4507 1277 5294 5008 5855 4323 5847 3051 5286
+	}
+}

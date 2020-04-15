@@ -1,0 +1,42 @@
+
+state={
+	id=269
+	name="Kure"
+	resources={
+		chromium=0.000
+		aluminium=0.000
+		steel=0.000
+		tungsten=1.000
+		rubber=0.000
+		oil=0.000
+	}
+
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 7
+			4210 = {
+				naval_base = 7
+
+			}
+
+		}
+		victory_points = {
+			4210 25 
+		}
+
+
+		add_core_of = JP1
+
+	}
+
+	provinces={
+		4210 4614 4622 5019 
+	}
+	manpower=231400
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

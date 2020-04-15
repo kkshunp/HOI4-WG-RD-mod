@@ -1,0 +1,43 @@
+state={
+	id=200
+	name="Kusatu" 
+	manpower = 285642
+
+	state_category = rural
+	resources={
+		chromium=0
+		aluminium=0
+		steel=0
+		tungsten=0
+		rubber=0
+		oil=0
+	}
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+				
+		}
+		
+		victory_points = {
+			 4319 2
+		}
+		victory_points = {
+			4430 1
+		}
+		victory_points = {
+			 4278 5
+		}
+		1985.2.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+	4319 3089 4128 4278 4430 3816 3679 6019 3325 6018 6017 3325 5007 6016 5007 2649 6016 4511 3783 6015
+	}
+}

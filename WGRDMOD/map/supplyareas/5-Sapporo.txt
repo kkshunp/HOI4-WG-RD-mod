@@ -1,0 +1,8 @@
+supply_area={
+	id=5
+	name="Sapporo"
+	value=9
+	states={
+		12 14 15
+	}
+}

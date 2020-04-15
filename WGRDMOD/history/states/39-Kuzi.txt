@@ -1,0 +1,27 @@
+state={
+	id=39
+	name="Kuzi" 
+	manpower = 53570 
+
+	state_category = city
+	history={
+		owner = JP1
+		buildings = {
+			infrastructure = 3
+			industrial_complex =  3
+			air_base = 1
+		}
+		victory_points = {
+			 3889 10
+		}
+		1985.1.1 = {
+			controller = SOV
+
+		}
+		add_core_of = JP1
+	}
+
+	provinces={
+		1812 4733 2436 5739 1582 1521 3708 2092 2490 2193 3889
+	}
+}
